@@ -1,0 +1,7104 @@
+[
+  {
+    "idx": 0,
+    "text": "We present a case report of a patient with typhoid fever who experienced a hypersensitivity reaction subsequent to the infusion of chloramphenicol sodium succinate.",
+    "ground_truth": [
+      [
+        "chloramphenicol sodium succinate",
+        "hypersensitivity reaction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 1,
+    "text": "The ototoxicity of quinine can accurately be studied with ultrahigh frequency audiometry (up to 20 kHz).",
+    "ground_truth": [
+      [
+        "quinine",
+        "ototoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 2,
+    "text": "Patient 1 presented bilateral ballism 1 week after intravenous heroin injection.",
+    "ground_truth": [
+      [
+        "heroin",
+        "bilateral ballism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 3,
+    "text": "A 58-year-old woman developed unilateral acute angle-closure glaucoma four days after the application of a patch of transdermal scopolamine delivery system (TRANSDERM-V).",
+    "ground_truth": [
+      [
+        "scopolamine",
+        "unilateral acute angle-closure glaucoma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 4,
+    "text": "To the best of our knowledge, this is the first case of lithium-associated CDI and NDI presenting concurrently.",
+    "ground_truth": [
+      [
+        "lithium",
+        "cdi"
+      ],
+      [
+        "lithium",
+        "ndi"
+      ]
+    ],
+    "prediction": [
+      [
+        "lithium",
+        "cdi"
+      ],
+      [
+        "lithium",
+        "ndi"
+      ]
+    ],
+    "correct": [
+      [
+        "lithium",
+        "cdi"
+      ],
+      [
+        "lithium",
+        "ndi"
+      ]
+    ]
+  },
+  {
+    "idx": 5,
+    "text": "CONCLUSION: A 26-year-old man with bipolar disorder developed hyperammonemia three weeks after initiating carbamazepine therapy.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "hyperammonemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 6,
+    "text": "RESULTS: Quetiapine was associated with leucopenia in two patients and clinically apparent agranulocytosis in one patient.",
+    "ground_truth": [
+      [
+        "quetiapine",
+        "agranulocytosis"
+      ],
+      [
+        "quetiapine",
+        "leucopenia"
+      ]
+    ],
+    "prediction": [
+      [
+        "quetiapine",
+        "agranulocytosis"
+      ],
+      [
+        "quetiapine",
+        "leucopenia"
+      ]
+    ],
+    "correct": [
+      [
+        "quetiapine",
+        "agranulocytosis"
+      ],
+      [
+        "quetiapine",
+        "leucopenia"
+      ]
+    ]
+  },
+  {
+    "idx": 7,
+    "text": "Hepatopathy subsided after the cessation of carbamazepine and lynestrenol.",
+    "ground_truth": [
+      [
+        "lynestrenol",
+        "hepatopathy"
+      ],
+      [
+        "carbamazepine",
+        "hepatopathy"
+      ]
+    ],
+    "prediction": [
+      [
+        "lynestrenol",
+        "hepatopathy"
+      ],
+      [
+        "carbamazepine",
+        "hepatopathy"
+      ]
+    ],
+    "correct": [
+      [
+        "lynestrenol",
+        "hepatopathy"
+      ],
+      [
+        "carbamazepine",
+        "hepatopathy"
+      ]
+    ]
+  },
+  {
+    "idx": 8,
+    "text": "Carbamazepine induced right bundle branch block in a Greenlandic patient.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "right bundle branch block"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 9,
+    "text": "METHODS: We report a patient who had an anaphylactic reaction during the intravenous infusion of cyclosporine.",
+    "ground_truth": [
+      [
+        "cyclosporine",
+        "anaphylactic reaction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 10,
+    "text": "Flecainide-associated pneumonitis with acute respiratory failure in a patient with the LEOPARD syndrome.",
+    "ground_truth": [
+      [
+        "flecainide",
+        "acute respiratory failure"
+      ],
+      [
+        "flecainide",
+        "pneumonitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 11,
+    "text": "Digestive hemorrhage caused by a Meckel's diverticulum in a metformin-treated patient: is there any connection?",
+    "ground_truth": [
+      [
+        "metformin",
+        "digestive hemorrhage"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 12,
+    "text": "Thrombotic thrombocytopenic purpura induced by trimethoprim-sulfamethoxazole in a Jehovah's Witness.",
+    "ground_truth": [
+      [
+        "trimethoprim",
+        "thrombotic thrombocytopenic purpura"
+      ],
+      [
+        "sulfamethoxazole",
+        "thrombotic thrombocytopenic purpura"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 13,
+    "text": "Second, we report a case of neutropenia, which proved to be fatal in a schizophrenia patient receiving olanzapine and thiazide.",
+    "ground_truth": [
+      [
+        "olanzapine",
+        "neutropenia"
+      ],
+      [
+        "thiazide",
+        "neutropenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 14,
+    "text": "Common adverse events (frequency 10%) of lacosamide doses up to 600 mg/day include nonspecific central nervous system effects (e.g., dizziness, ataxia, diplopia, and somnolence).",
+    "ground_truth": [
+      [
+        "lacosamide",
+        "dizziness"
+      ],
+      [
+        "lacosamide",
+        "ataxia"
+      ],
+      [
+        "lacosamide",
+        "somnolence"
+      ],
+      [
+        "lacosamide",
+        "diplopia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 15,
+    "text": "She had been taking nabumetone for 6 months, but had discontinued the agent 2 weeks before admission due to progressive edema.",
+    "ground_truth": [
+      [
+        "nabumetone",
+        "edema"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 16,
+    "text": "PURPOSE: The case of a patient who developed aseptic meningitis, hemolytic anemia, hepatitis, and orthostatic hypotension simultaneously during treatment with trimethoprim-sulfamethoxazole is described.",
+    "ground_truth": [
+      [
+        "trimethoprim",
+        "orthostatic hypotension"
+      ],
+      [
+        "trimethoprim",
+        "aseptic meningitis"
+      ],
+      [
+        "sulfamethoxazole",
+        "hepatitis"
+      ],
+      [
+        "sulfamethoxazole",
+        "hemolytic anemia"
+      ],
+      [
+        "sulfamethoxazole",
+        "orthostatic hypotension"
+      ],
+      [
+        "sulfamethoxazole",
+        "aseptic meningitis"
+      ],
+      [
+        "trimethoprim",
+        "hepatitis"
+      ],
+      [
+        "trimethoprim",
+        "hemolytic anemia"
+      ]
+    ],
+    "prediction": [
+      [
+        "trimethoprim-sulfamethoxazole",
+        "orthostatic hypotension"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "hepatitis"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "aseptic meningitis"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "hemolytic anemia"
+      ]
+    ],
+    "correct": []
+  },
+  {
+    "idx": 17,
+    "text": "FDE from cephalosporins has been rarely reported, and to the best of our knowledge there is no published report of ceftriaxone-induced FDE in the literature.",
+    "ground_truth": [
+      [
+        "cephalosporins",
+        "fde"
+      ],
+      [
+        "ceftriaxone",
+        "fde"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 18,
+    "text": "Hypersensitivity reactions to cisplatin following multiple uncomplicated courses: a report on two cases.",
+    "ground_truth": [
+      [
+        "cisplatin",
+        "hypersensitivity reactions"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 19,
+    "text": "Anticonvulsant hypersensitivity syndrome associated with Bellamine S, a therapy for menopausal symptoms.",
+    "ground_truth": [
+      [
+        "bellamine s",
+        "anticonvulsant hypersensitivity syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 20,
+    "text": "Patient B developed perioral and upper extremity paresthesias during the fourth cycle of CAP alone (2500 mg/m2).",
+    "ground_truth": [
+      [
+        "cap",
+        "perioral and upper extremity paresthesias"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 21,
+    "text": "Keratitis in methamphetamine abusers.",
+    "ground_truth": [
+      [
+        "methamphetamine",
+        "keratitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 22,
+    "text": "Allopurinol-associated hand and foot deformities in chronic tophaceous gout.",
+    "ground_truth": [
+      [
+        "allopurinol",
+        "hand and foot deformities"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 23,
+    "text": "The Naranjo probability scale indicated a probable relationship between apnea and exposure to lamotrigine through breast-feeding in this infant.",
+    "ground_truth": [
+      [
+        "lamotrigine",
+        "apnea"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 24,
+    "text": "OBJECTIVE: To describe a case of thrombocytopenia associated with the administration of lansoprazole.",
+    "ground_truth": [
+      [
+        "lansoprazole",
+        "thrombocytopenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 25,
+    "text": "We present a case of photo-onycholysis in a patient treated with doxycycline for acne vulgaris.",
+    "ground_truth": [
+      [
+        "doxycycline",
+        "photo-onycholysis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 26,
+    "text": "Interferon-based treatments have the potential to decrease the burden of disease, but are complicated by side effects, including neuropsychiatric symptoms.",
+    "ground_truth": [
+      [
+        "interferon",
+        "neuropsychiatric symptoms"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 27,
+    "text": "In a patient with severe renovascular hypertension, nonoliguric acute renal failure developed after she received captopril treatment.",
+    "ground_truth": [
+      [
+        "captopril",
+        "nonoliguric acute renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 28,
+    "text": "Cutaneous mycobacterial infection post intravesical BCG installation.",
+    "ground_truth": [
+      [
+        "bcg",
+        "cutaneous mycobacterial infection"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 29,
+    "text": "Parenteral-verapamil-induced sustained hypotension.",
+    "ground_truth": [
+      [
+        "verapamil",
+        "sustained hypotension"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 30,
+    "text": "Three nephrotic patients who had reduced renal function and active renal disease with progressive deterioration of renal function prior to the use of MP developed transient renal failure following an MP pulse therapy.",
+    "ground_truth": [
+      [
+        "mp",
+        "transient renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 31,
+    "text": "We describe a case of intraoperative gelatine-induced anaphylaxis whose diagnosis was delayed as the use of gelatine during surgical procedures was omitted for two times in patient's medical records.",
+    "ground_truth": [
+      [
+        "gelatine",
+        "anaphylaxis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 32,
+    "text": "Lower extremity arterial thrombosis following sonographically guided thrombin injection of a femoral pseudoaneurysm.",
+    "ground_truth": [
+      [
+        "thrombin",
+        "arterial thrombosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 33,
+    "text": "Asthenozoospermia: possible association with long-term exposure to an anti-epileptic drug of carbamazepine.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "asthenozoospermia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 34,
+    "text": "OBJECTIVE: To report the safe use of fluorouracil in a patient with breast cancer who had allergic reactions to capecitabine.",
+    "ground_truth": [
+      [
+        "capecitabine",
+        "allergic reactions"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 35,
+    "text": "Possible serotonin syndrome associated with clomipramine after withdrawal of clozapine.",
+    "ground_truth": [
+      [
+        "clomipramine",
+        "serotonin syndrome"
+      ],
+      [
+        "clozapine",
+        "serotonin syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 36,
+    "text": "CONCLUSIONS: These results suggest that clozapine may cause TD; however, the prevalence is low and the severity is relatively mild, with no or mild self-reported discomfort.",
+    "ground_truth": [
+      [
+        "clozapine",
+        "td"
+      ],
+      [
+        "clozapine",
+        "discomfort"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 37,
+    "text": "This case of linezolid-associated acute interstitial nephritis within the context of a drug rash with eosinophilia and systemic symptoms (DRESS) syndrome in a patient treated with linezolid raises concerns about the presumed renal safety of this drug.",
+    "ground_truth": [
+      [
+        "linezolid",
+        "dress"
+      ],
+      [
+        "linezolid",
+        "acute interstitial nephritis"
+      ],
+      [
+        "linezolid",
+        "drug rash with eosinophilia and systemic symptoms"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 38,
+    "text": "Early recognition of renal toxicity of high-dose methotrexate therapy: a case report.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "renal toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 39,
+    "text": "Prolonged severe 5-fluorouracil-associated neurotoxicity in a patient with dihydropyrimidine dehydrogenase deficiency.",
+    "ground_truth": [
+      [
+        "5-fluorouracil",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 40,
+    "text": "We describe a case of advanced ovarian carcinoma who developed difficulty walking because of marked pain in the lower extremities and loss of proprioception 25 days after treatment with weekly taxol (80 mg/m(2)x3).",
+    "ground_truth": [
+      [
+        "taxol",
+        "marked pain"
+      ],
+      [
+        "taxol",
+        "loss of proprioception"
+      ],
+      [
+        "taxol",
+        "difficulty walking"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 41,
+    "text": "Heparin-induced thrombocytopenia complicated with massive thrombosis of the inferior vena cava after filter placement.",
+    "ground_truth": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "heparin",
+        "massive thrombosis of the inferior vena cava"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 42,
+    "text": "Ophthalmologic and neurologic findings in two children exposed to vigabatrin in utero.",
+    "ground_truth": [
+      [
+        "vigabatrin",
+        "ophthalmologic and neurologic findings"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 43,
+    "text": "Although tardive dyskinesia is a known adverse reaction of sustained treatment with traditional neuroleptic agents, it was only rarely reported in association with sulpiride, a selective D2-receptor antagonist.",
+    "ground_truth": [
+      [
+        "sulpiride",
+        "tardive dyskinesia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 44,
+    "text": "Colitis as a manifestation of infliximab-associated disseminated cryptococcosis.",
+    "ground_truth": [
+      [
+        "infliximab",
+        "disseminated cryptococcosis"
+      ],
+      [
+        "infliximab",
+        "colitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 45,
+    "text": "Spontaneous splenic infarction associated with sumatriptan use.",
+    "ground_truth": [
+      [
+        "sumatriptan",
+        "spontaneous splenic infarction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 46,
+    "text": "It was concluded that potassium loss occurred by a non-renal (intestinal) route in phosphate-induced hypokalemia.",
+    "ground_truth": [
+      [
+        "phosphate",
+        "potassium loss"
+      ],
+      [
+        "phosphate",
+        "hypokalemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 47,
+    "text": "We describe the case of a 50-year-old woman with advanced non-small cell lung cancer who developed status epilepticus shortly after receiving cisplatin and gemcitabine chemotherapy.",
+    "ground_truth": [
+      [
+        "gemcitabine",
+        "status epilepticus"
+      ],
+      [
+        "cisplatin",
+        "status epilepticus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 48,
+    "text": "A case of severe aplastic anemia secondary to treatment with lenalidomide for multiple myeloma.",
+    "ground_truth": [
+      [
+        "lenalidomide",
+        "severe aplastic anemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 49,
+    "text": "Albuterol-induced hypokalemia and its potential cardiac toxicity are discussed briefly.",
+    "ground_truth": [
+      [
+        "albuterol",
+        "cardiac toxicity"
+      ],
+      [
+        "albuterol",
+        "hypokalemia"
+      ]
+    ],
+    "prediction": [
+      [
+        "albuterol",
+        "cardiac toxicity"
+      ],
+      [
+        "albuterol",
+        "hypokalemia"
+      ]
+    ],
+    "correct": [
+      [
+        "albuterol",
+        "cardiac toxicity"
+      ],
+      [
+        "albuterol",
+        "hypokalemia"
+      ]
+    ]
+  },
+  {
+    "idx": 50,
+    "text": "This is a report of a renal transplant patient with Pneumocystis pneumonia who developed chemical cellulitis and ulceration following the extravasation of intravenous pentamidine into the soft tissues of the left hand and forearm.",
+    "ground_truth": [
+      [
+        "pentamidine",
+        "chemical cellulitis"
+      ],
+      [
+        "pentamidine",
+        "ulceration"
+      ]
+    ],
+    "prediction": [
+      [
+        "pentamidine",
+        "chemical cellulitis"
+      ],
+      [
+        "pentamidine",
+        "ulceration"
+      ]
+    ],
+    "correct": [
+      [
+        "pentamidine",
+        "chemical cellulitis"
+      ],
+      [
+        "pentamidine",
+        "ulceration"
+      ]
+    ]
+  },
+  {
+    "idx": 51,
+    "text": "Hypersensitivity to carboplatin has been reported in up to 44% of patients receiving this antineoplastic agent, usually occurring after several courses of treatment.",
+    "ground_truth": [
+      [
+        "carboplatin",
+        "hypersensitivity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 52,
+    "text": "DIAGNOSIS: Severe temozolomide-induced immunosuppression, exacerbated by corticosteroids, with profound T-cell lymphocytopenia and simultaneous opportunistic infections with Pneumocystis jiroveci pneumonia, brain abscess with Listeria monocytogenes, and cutaneous Kaposi's sarcoma.",
+    "ground_truth": [
+      [
+        "temozolomide",
+        "brain abscess with listeria monocytogenes"
+      ],
+      [
+        "temozolomide",
+        "infections with pneumocystis jiroveci pneumonia"
+      ],
+      [
+        "temozolomide",
+        "t-cell lymphocytopenia"
+      ],
+      [
+        "temozolomide",
+        "immunosuppression"
+      ],
+      [
+        "temozolomide",
+        "cutaneous kaposi's sarcoma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 53,
+    "text": "A patient with a large hydatid cyst of the left lobe of the liver developed metabolic acidosis following rather liberal use of cetrimide-chlorhexidine solution as a scolicidal agent.",
+    "ground_truth": [
+      [
+        "cetrimide",
+        "metabolic acidosis"
+      ],
+      [
+        "chlorhexidine",
+        "metabolic acidosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 54,
+    "text": "Radiologic recognition of adriamycin cardiotoxicity.",
+    "ground_truth": [
+      [
+        "adriamycin",
+        "cardiotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 55,
+    "text": "A patient who had been treated with large doses of thyroid hormone for several years developed features of secondary hypothyroidism after thyroid hormone withdrawal.",
+    "ground_truth": [
+      [
+        "thyroid hormone",
+        "hypothyroidism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 56,
+    "text": "Acute isoniazid neurotoxicity in an urban hospital.",
+    "ground_truth": [
+      [
+        "isoniazid",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 57,
+    "text": "Only one report links phenylpropanolamine consumption to an intracerebral hemorrhage in a patient with an AVM.",
+    "ground_truth": [
+      [
+        "phenylpropanolamine",
+        "intracerebral hemorrhage"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 58,
+    "text": "Usefulness of antiplatelet drugs in the management of heparin-associated thrombocytopenia and thrombosis.",
+    "ground_truth": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "heparin",
+        "thrombosis"
+      ]
+    ],
+    "prediction": [
+      [
+        "antiplatelet drugs",
+        "thrombocytopenia"
+      ],
+      [
+        "antiplatelet drugs",
+        "thrombosis"
+      ]
+    ],
+    "correct": []
+  },
+  {
+    "idx": 59,
+    "text": "Heat stroke in schizophrenia during clozapine treatment: rapid recognition and management.",
+    "ground_truth": [
+      [
+        "clozapine",
+        "heat stroke"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 60,
+    "text": "A young woman with epilepsy had tonic-clonic seizures during antineoplastic therapy with adriamycin and cisplatin.",
+    "ground_truth": [
+      [
+        "cisplatin",
+        "tonic-clonic seizures"
+      ],
+      [
+        "adriamycin",
+        "tonic-clonic seizures"
+      ]
+    ],
+    "prediction": [
+      [
+        "cisplatin",
+        "tonic-clonic seizures"
+      ],
+      [
+        "adriamycin",
+        "tonic-clonic seizures"
+      ]
+    ],
+    "correct": [
+      [
+        "cisplatin",
+        "tonic-clonic seizures"
+      ],
+      [
+        "adriamycin",
+        "tonic-clonic seizures"
+      ]
+    ]
+  },
+  {
+    "idx": 61,
+    "text": "The authors suggest that in the absence of any proven benefit of itraconazole prophylaxis, and given the interaction of this drug with vincristine leading to severe and even potentially fatal toxicities, the combination use of these drugs should be avoided.",
+    "ground_truth": [
+      [
+        "itraconazole",
+        "fatal toxicities"
+      ],
+      [
+        "vincristine",
+        "fatal toxicities"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 62,
+    "text": "A 55-year-old woman developed symptoms suggestive of hepatitis 12 weeks after first receiving methyldopa for hypertension.",
+    "ground_truth": [
+      [
+        "methyldopa",
+        "hepatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 63,
+    "text": "Amebic abscess of the spleen complicated by metronidazole-induced neurotoxicity: case report.",
+    "ground_truth": [
+      [
+        "metronidazole",
+        "neurotoxicity"
+      ],
+      [
+        "metronidazole",
+        "amebic abscess of the spleen"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 64,
+    "text": "CONCLUSION: Under certain circumstances topical brimonidine can cause paradoxical raised IOP necessitating vigilance in follow-up of patients on topical brimonidine.",
+    "ground_truth": [
+      [
+        "brimonidine",
+        "paradoxical raised iop"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 65,
+    "text": "DIAGNOSIS: Sustained ventricular tachycardia possibly owing to thalidomide treatment.",
+    "ground_truth": [
+      [
+        "thalidomide",
+        "sustained ventricular tachycardia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 66,
+    "text": "We believe that the acute renal failure in our patient was associated with anastrozole.",
+    "ground_truth": [
+      [
+        "anastrozole",
+        "acute renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 67,
+    "text": "However, there remain questions concerning whether these drugs, especially methimazole (MMI), may be associated with aplasia cutis congenita (ACC) and how best to avoid impairment of fetal thyroid function during their use.",
+    "ground_truth": [
+      [
+        "methimazole",
+        "acc"
+      ],
+      [
+        "methimazole",
+        "aplasia cutis congenita"
+      ],
+      [
+        "mmi",
+        "acc"
+      ],
+      [
+        "mmi",
+        "aplasia cutis congenita"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 68,
+    "text": "We report the case of an adult patient with acute lymphoblastic leukemia who presented with repeated transient ischemic attacks followed by a seizure during consolidation treatment with L-asparaginase.",
+    "ground_truth": [
+      [
+        "l-asparaginase",
+        "seizure"
+      ],
+      [
+        "l-asparaginase",
+        "transient ischemic attacks"
+      ]
+    ],
+    "prediction": [
+      [
+        "l-asparaginase",
+        "seizure"
+      ],
+      [
+        "l-asparaginase",
+        "transient ischemic attacks"
+      ]
+    ],
+    "correct": [
+      [
+        "l-asparaginase",
+        "seizure"
+      ],
+      [
+        "l-asparaginase",
+        "transient ischemic attacks"
+      ]
+    ]
+  },
+  {
+    "idx": 69,
+    "text": "OBJECTIVE: To report a case of rapidly occurring hyperglycemia that occurred in a geriatric patient 3 days after treatment with olanzapine.",
+    "ground_truth": [
+      [
+        "olanzapine",
+        "hyperglycemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 70,
+    "text": "After intravitreal injection of triamcinolone acetonide, cataract may rapidly develop in eyes that have been intensively treated, topically and systemically, by corticosteroids for several years.",
+    "ground_truth": [
+      [
+        "triamcinolone acetonide",
+        "cataract"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 71,
+    "text": "It occasionally accompanies the heparin-associated thrombocytopenia and thrombosis syndrome.",
+    "ground_truth": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "heparin",
+        "thrombosis syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 72,
+    "text": "We conclude that low-dose HU therapy in patients with thalassemia intermedia may increase total Hb levels sufficiently to eliminate the need for transfusions.",
+    "ground_truth": [
+      [
+        "hu",
+        "increase total hb"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 73,
+    "text": "The case history and toxicological findings of an infant fatality involving pseudoephedrine, brompheniramine, and dextromethorphan are presented.",
+    "ground_truth": [
+      [
+        "pseudoephedrine",
+        "fatality"
+      ],
+      [
+        "dextromethorphan",
+        "fatality"
+      ],
+      [
+        "brompheniramine",
+        "fatality"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 74,
+    "text": "Discontinuation of simvastatin and cyclosporine resulted in resolution of rhabdomyolysis and normalization of renal function.",
+    "ground_truth": [
+      [
+        "cyclosporine",
+        "rhabdomyolysis"
+      ],
+      [
+        "simvastatin",
+        "rhabdomyolysis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 75,
+    "text": "Methamphetamine's extensive physiologic effects, inconsistent street purity, and multiple routes of administration offer many possibilities for injury to the cornea.",
+    "ground_truth": [
+      [
+        "methamphetamine",
+        "injury to the cornea"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 76,
+    "text": "Pneumocystis carinii pneumonia as a complication of methotrexate treatment of asthma.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "pneumocystis carinii pneumonia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 77,
+    "text": "These findings mean that the effect of the MP pulse therapy on renal function depends on the clinical state of the patient and that renal deterioration after the pulse therapy may be more marked in patients who are more nephrotic and more impaired in renal function and suggest that increasing sodium and water retention during an MP therapy and the associated renal interstitial edema, proposed as one of the mechanisms of acute renal failure occurring in patients with minimal-change nephrotic syndrome, may be responsible for the MP-induced transient renal failure.",
+    "ground_truth": [
+      [
+        "mp",
+        "transient renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 78,
+    "text": "Nitrofurantoin-induced acute liver damage in pregnancy.",
+    "ground_truth": [
+      [
+        "nitrofurantoin",
+        "acute liver damage"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 79,
+    "text": "Idiosyncratic pulmonary reactions to nitrofurantoin are not unusual, often presenting as eosinophilic pneumonia.",
+    "ground_truth": [
+      [
+        "nitrofurantoin",
+        "eosinophilic pneumonia"
+      ],
+      [
+        "nitrofurantoin",
+        "idiosyncratic pulmonary reactions"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 80,
+    "text": "Terbinafine-induced cholestatic liver disease.",
+    "ground_truth": [
+      [
+        "terbinafine",
+        "cholestatic liver disease"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 81,
+    "text": "Chlorambucil central nervous toxicity: a significant side effect of chlorambucil therapy in childhood nephrotic syndrome.",
+    "ground_truth": [
+      [
+        "chlorambucil",
+        "central nervous toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 82,
+    "text": "Pulmonary fibrosis is a complication of paclitaxel therapy that may occur despite treatments with corticosteroids.",
+    "ground_truth": [
+      [
+        "paclitaxel",
+        "pulmonary fibrosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 83,
+    "text": "The visual loss in this patient seems to result from phenol neurotoxicity rather than mechanical compression of the intraorbital optic nerve.",
+    "ground_truth": [
+      [
+        "phenol",
+        "visual loss"
+      ],
+      [
+        "phenol",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 84,
+    "text": "Rhabdomyolysis has been recognized as a complication of tocolytic therapy with ritodrine hydrochloride.",
+    "ground_truth": [
+      [
+        "ritodrine hydrochloride",
+        "rhabdomyolysis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 85,
+    "text": "Azathioprine-induced myelosuppression due to thiopurine methyltransferase deficiency in a patient with autoimmune hepatitis.",
+    "ground_truth": [
+      [
+        "azathioprine",
+        "myelosuppression"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 86,
+    "text": "Nephrotic syndrome in a multiple sclerosis patient treated with interferon beta 1a.",
+    "ground_truth": [
+      [
+        "interferon beta 1a",
+        "nephrotic syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 87,
+    "text": "Encephalopathy and seizures induced by intravesical alum irrigations.",
+    "ground_truth": [
+      [
+        "alum",
+        "encephalopathy"
+      ],
+      [
+        "alum",
+        "seizures"
+      ]
+    ],
+    "prediction": [
+      [
+        "alum",
+        "encephalopathy"
+      ],
+      [
+        "alum",
+        "seizures"
+      ]
+    ],
+    "correct": [
+      [
+        "alum",
+        "encephalopathy"
+      ],
+      [
+        "alum",
+        "seizures"
+      ]
+    ]
+  },
+  {
+    "idx": 88,
+    "text": "Based on the Naranjo algorithm, the adverse reaction observed was probably related to the hydroxyurea treatment (score = 6); however, the hydroxyurea chemotherapy could not be discontinued because of the myeloproliferative disorder.",
+    "ground_truth": [
+      [
+        "hydroxyurea",
+        "myeloproliferative disorder"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 89,
+    "text": "CONCLUSION: During and after IFN therapy, OCT is a useful examination technique for revealing macular edema in patients who have decreased vision.",
+    "ground_truth": [
+      [
+        "ifn",
+        "macular edema"
+      ],
+      [
+        "ifn",
+        "decreased vision"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 90,
+    "text": "Amphotericin B-induced cutaneous leucocytoclastic vasculitis: case report.",
+    "ground_truth": [
+      [
+        "amphotericin b",
+        "cutaneous leucocytoclastic vasculitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 91,
+    "text": "Priapism associated with trazodone therapy: case report.",
+    "ground_truth": [
+      [
+        "trazodone",
+        "priapism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 92,
+    "text": "Fatal interstitial pneumonitis associated with docetaxel administration in a patient with hormone-refractory prostate cancer.",
+    "ground_truth": [
+      [
+        "docetaxel",
+        "fatal interstitial pneumonitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 93,
+    "text": "Two 65-year-old white men with coronary heart disease, given niacin therapy for dyslipidemia for 5 months, developed intense dental and gingival pain that was associated with increases in dose and that was relieved with discontinuance of niacin treatment.",
+    "ground_truth": [
+      [
+        "niacin",
+        "intense dental and gingival pain"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 94,
+    "text": "Two patients with rheumatoid arthritis developed evidence of hepatotoxicity while receiving D-penicillamine.",
+    "ground_truth": [
+      [
+        "d-penicillamine",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 95,
+    "text": "We report a case of biopsy proven myositis whose symptoms began within 10 days of receiving leuprolide acetate therapy for prostate cancer.",
+    "ground_truth": [
+      [
+        "leuprolide acetate",
+        "myositis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 96,
+    "text": "CONCLUSIONS: SD-OCT and AO detected abnormalities that correlate topographically with visual field loss from hydroxychloroquine toxicity as demonstrated by HVF 10-2 and may be useful in the detection of subclinical abnormalities that precede symptoms or objective visual field loss.",
+    "ground_truth": [
+      [
+        "hydroxychloroquine",
+        "objective visual field loss"
+      ],
+      [
+        "hydroxychloroquine",
+        "visual field loss"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 97,
+    "text": "OBJECTIVES: The authors described a case of Hashimoto's disease during interferon-alpha (IFN-alpha) treatment for chronic viral C hepatitis in a patient with the specific genetic susceptibility associated with the thyroid disease.",
+    "ground_truth": [
+      [
+        "interferon-alpha",
+        "hashimoto's disease"
+      ],
+      [
+        "ifn-alpha",
+        "hashimoto's disease"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 98,
+    "text": "Lithium therapy was discontinued because of poor compliance to the medication and intolerable polyuria.",
+    "ground_truth": [
+      [
+        "lithium",
+        "polyuria"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 99,
+    "text": "Of 371 patients treated with 8MOP, three (0.8%) developed an acute dermatitis in the PUVA-treated areas.",
+    "ground_truth": [
+      [
+        "8mop",
+        "acute dermatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 100,
+    "text": "Priapism as a complication of heparin therapy.",
+    "ground_truth": [
+      [
+        "heparin",
+        "priapism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 101,
+    "text": "Prominent positive U waves appearing with high-dose intravenous phenylephrine.",
+    "ground_truth": [
+      [
+        "phenylephrine",
+        "positive u waves"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 102,
+    "text": "I saw two patients with kala-azar resistant to sodium stibogluconate who developed cardiac arrest after amphotericin infusion (in spite of tolerating a test dose).",
+    "ground_truth": [
+      [
+        "amphotericin",
+        "cardiac arrest"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 103,
+    "text": "We describe two patients in whom painful erosions of their psoriasis developed as the presenting sign of methotrexate toxicity and review the literature, emphasizing the risk factors associated with this manifestation.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "methotrexate toxicity"
+      ],
+      [
+        "methotrexate",
+        "painful erosions of their psoriasis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 104,
+    "text": "Since imiquimod induces large amounts of type I interferon production from TLR7-expressing plasmacytoid dendritic cell precursors (PDCs), the natural interferon-producing cells of the peripheral blood, we asked whether PDCs are present in psoriatic skin.",
+    "ground_truth": [
+      [
+        "imiquimod",
+        "large amounts of type i interferon production"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 105,
+    "text": "In patients with methotrexate-induced anaphylaxis, discontinuation of treatment may increase the risk of death due to cancer progression.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "anaphylaxis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 106,
+    "text": "Infants are particularly susceptible to chronic nitrate-induced methemoglobinemia because of their low stomach acid production, large numbers of nitrite-reducing bacteria, and the relatively easy oxidation of fetal hemoglobin.",
+    "ground_truth": [
+      [
+        "nitrate",
+        "methemoglobinemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 107,
+    "text": "In addition, while cases of loop diuretic-induced pancreatitis, including furosemide, have been published, the allergic manifestations with both sulfonamide antibiotics and non-antibiotics in our patient suggest possible cross-reactivity between these 2 drug classes.",
+    "ground_truth": [
+      [
+        "furosemide",
+        "pancreatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 108,
+    "text": "Severe erythroderma as a complication of continuous epoprostenol therapy.",
+    "ground_truth": [
+      [
+        "epoprostenol",
+        "erythroderma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 109,
+    "text": "To our knowledge, this is the first case of ivermectin-induced severe liver disease published in the literature.",
+    "ground_truth": [
+      [
+        "ivermectin",
+        "severe liver disease"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 110,
+    "text": "A literature review revealed 83 other reported cases of rifampicin-induced renal insufficiency.",
+    "ground_truth": [
+      [
+        "rifampicin",
+        "renal insufficiency"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 111,
+    "text": "Dystonia associated with carbamazepine administration: experience in brain-damaged children.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "dystonia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 112,
+    "text": "Several possible explanations of the mechanism of renal failure associated with the use of dextran-40 are discussed.",
+    "ground_truth": [
+      [
+        "dextran-40",
+        "renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 113,
+    "text": "However, there are few reports in the literature of ampicillin as a cause of acute interstitial nephritis.",
+    "ground_truth": [
+      [
+        "ampicillin",
+        "acute interstitial nephritis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 114,
+    "text": "A 36-year-old man being treated with cisplatinum, vinblastine, and bleomycin for testicular carcinoma developed a dense left homonymous hemianopsia, encephalopathy, and a partial nondominant parietal lobe syndrome.",
+    "ground_truth": [
+      [
+        "bleomycin",
+        "partial nondominant parietal lobe syndrome"
+      ],
+      [
+        "cisplatinum",
+        "encephalopathy"
+      ],
+      [
+        "cisplatinum",
+        "left homonymous hemianopsia"
+      ],
+      [
+        "vinblastine",
+        "partial nondominant parietal lobe syndrome"
+      ],
+      [
+        "cisplatinum",
+        "partial nondominant parietal lobe syndrome"
+      ],
+      [
+        "bleomycin",
+        "encephalopathy"
+      ],
+      [
+        "vinblastine",
+        "encephalopathy"
+      ],
+      [
+        "bleomycin",
+        "left homonymous hemianopsia"
+      ],
+      [
+        "vinblastine",
+        "left homonymous hemianopsia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 115,
+    "text": "CONCLUSION: There may be an association between raloxifene and the development of malignant mixed mesodermal tumor.",
+    "ground_truth": [
+      [
+        "raloxifene",
+        "malignant mixed mesodermal tumor"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 116,
+    "text": "According to the literature, chlorambucil central nervous toxicity is found almost exclusively in childhood nephrotic syndrome.",
+    "ground_truth": [
+      [
+        "chlorambucil",
+        "central nervous toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 117,
+    "text": "Painful erosion of psoriatic plaques is a less common sign of methotrexate toxicity that may precede evidence of bone marrow suppression.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "painful erosion of psoriatic plaques"
+      ],
+      [
+        "methotrexate",
+        "methotrexate toxicity"
+      ],
+      [
+        "methotrexate",
+        "bone marrow suppression"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 118,
+    "text": "We report the case of a 20-year-old female with polyarteritis nodosa (PAN) who developed bilateral sensorineural hearing loss 25 minutes after receiving 30 mg of intravenous ketoralac.",
+    "ground_truth": [
+      [
+        "ketoralac",
+        "bilateral sensorineural hearing loss"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 119,
+    "text": "PURPOSE: To report a case of angiographically documented cystoid macula edema occurring after switching a pseudophakic patient from latanoprost to bimatoprost.",
+    "ground_truth": [
+      [
+        "bimatoprost",
+        "cystoid macula edema"
+      ],
+      [
+        "latanoprost",
+        "cystoid macula edema"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 120,
+    "text": "Emphasis is given to the differentiation of diphenylhydantoin induced gingival hyperplasia from the angiomatous enlargement of the gingiva before any treatment is planned.",
+    "ground_truth": [
+      [
+        "diphenylhydantoin",
+        "gingival hyperplasia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 121,
+    "text": "CASE REPORT: We describe here a case of a 60 year old female that experienced a relapse of symptomatic hyperlactatemia after being switched from stavudine to zidovudine and how the case was managed at the Infectious Diseases Institute, Kampala, Uganda.",
+    "ground_truth": [
+      [
+        "stavudine",
+        "symptomatic hyperlactatemia"
+      ],
+      [
+        "zidovudine",
+        "symptomatic hyperlactatemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 122,
+    "text": "Desipramine-associated SIADH in an elderly woman: case report.",
+    "ground_truth": [
+      [
+        "desipramine",
+        "siadh"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 123,
+    "text": "Lansoprazole-associated collagenous colitis: a case report.",
+    "ground_truth": [
+      [
+        "lansoprazole",
+        "collagenous colitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 124,
+    "text": "Muscle biopsy revealed variation in muscle fiber size and few vacuolated fibers which were features of colchicine-induced myopathy.",
+    "ground_truth": [
+      [
+        "colchicine",
+        "myopathy"
+      ],
+      [
+        "colchicine",
+        "vacuolated fibers"
+      ],
+      [
+        "colchicine",
+        "variation in muscle fiber size"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 125,
+    "text": "The patient's arthritis flared after the second infusion of infliximab, which was discontinued.",
+    "ground_truth": [
+      [
+        "infliximab",
+        "arthritis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 126,
+    "text": "Generalized pustular psoriasis precipitated by trazodone in the treatment of depression.",
+    "ground_truth": [
+      [
+        "trazodone",
+        "generalized pustular psoriasis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 127,
+    "text": "Acute generalized exanthematous pustulosis induced by nimesulide.",
+    "ground_truth": [
+      [
+        "nimesulide",
+        "acute generalized exanthematous pustulosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 128,
+    "text": "PURPOSE: We report an unusual paradoxical effect of brimonidine.",
+    "ground_truth": [
+      [
+        "brimonidine",
+        "paradoxical effect"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 129,
+    "text": "Immunosuppression elicited by the extensive administration of prednisolone was suspected for the initiation of the generalized mite infestation.",
+    "ground_truth": [
+      [
+        "prednisolone",
+        "mite infestation"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 130,
+    "text": "A 43-year-old woman with multiple sclerosis (MS) had nephrotic syndrome 21 months after starting treatment with interferon (IFN)-beta-1b (subcutaneous administration).",
+    "ground_truth": [
+      [
+        "interferon (ifn)-beta-1b",
+        "nephrotic syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 131,
+    "text": "Vanishing bile duct and Stevens-Johnson syndrome associated with ciprofloxacin treated with tacrolimus.",
+    "ground_truth": [
+      [
+        "ciprofloxacin",
+        "vanishing bile duct"
+      ],
+      [
+        "ciprofloxacin",
+        "stevens-johnson syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 132,
+    "text": "The induction of hypoglycaemia with PAS in this patient suggests a potential role for PAS in the treatment of diabetes mellitus.",
+    "ground_truth": [
+      [
+        "pas",
+        "hypoglycaemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 133,
+    "text": "Although its side effects are few, tamoxifen increases the incidence of proliferative lesions of the endometrium, which theoretically should be preventable with progestational agents.",
+    "ground_truth": [
+      [
+        "tamoxifen",
+        "proliferative lesions of the endometrium"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 134,
+    "text": "RESULTS: In a 22-year-old Thai woman with Graves' disease, tinnitus, hearing impairment in the left ear (with progression to the right ear), and vertigo developed after 3 years of therapy with PTU.",
+    "ground_truth": [
+      [
+        "ptu",
+        "tinnitus"
+      ],
+      [
+        "ptu",
+        "vertigo"
+      ],
+      [
+        "ptu",
+        "hearing impairment in the left ear (with progression to the right ear)"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 135,
+    "text": "CONCLUSION: While thrombosis has been reported with GnRH-a therapy in men with prostate cancer, its association with treatment in this benign case may have been a consequence of the massive tumor size.",
+    "ground_truth": [
+      [
+        "gnrh-a",
+        "thrombosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 136,
+    "text": "Torsade de pointes associated with moxifloxacin: a rare but potentially fatal adverse event.",
+    "ground_truth": [
+      [
+        "moxifloxacin",
+        "torsade de pointes"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 137,
+    "text": "Although neurotoxicity is a frequent complication of methotrexate therapy, fatal acute neurotoxicity is extremely uncommon, especially in adults.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "neurotoxicity"
+      ],
+      [
+        "methotrexate",
+        "fatal acute neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 138,
+    "text": "CASE SUMMARIES: In each case, the patients were treated over 5 years with lovastatin and developed rhabdomyolysis that coincided with the completion of a prescribed regimen of a newer macrolide antibiotic.",
+    "ground_truth": [
+      [
+        "lovastatin",
+        "rhabdomyolysis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 139,
+    "text": "CONCLUSIONS: Because of its structural similarity to the other vinca alkaloids, vinorelbine is believed to be responsible for SIADH in our patient.",
+    "ground_truth": [
+      [
+        "vinorelbine",
+        "siadh"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 140,
+    "text": "We report 4 patients who developed symptoms of myasthenia gravis within 2 weeks of starting treatment with a statin drug.",
+    "ground_truth": [
+      [
+        "statin",
+        "myasthenia gravis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 141,
+    "text": "Three distinct types of minocycline-induced cutaneous pigmentation have been described.",
+    "ground_truth": [
+      [
+        "minocycline",
+        "cutaneous pigmentation"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 142,
+    "text": "One of the subjects who was using extemporaneous topical minoxidil had hypertension and arteriosclerotic disease and the other died of a myocardial infarction.",
+    "ground_truth": [
+      [
+        "minoxidil",
+        "myocardial infarction"
+      ],
+      [
+        "minoxidil",
+        "hypertension"
+      ],
+      [
+        "minoxidil",
+        "arteriosclerotic disease"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 143,
+    "text": "Vancomycin is widely used against methicillin-resistant Staphylococcus aureus infections, but it is associated with many adverse effects such as nephrotoxicity, ototoxicity, gastrointestinal disturbances, blood disorders, and two types of hypersensitivity reactions - an anaphylactoid reaction known as \"red man syndrome\" and anaphylaxis.",
+    "ground_truth": [
+      [
+        "vancomycin",
+        "anaphylaxis"
+      ],
+      [
+        "vancomycin",
+        "anaphylactoid"
+      ],
+      [
+        "vancomycin",
+        "gastrointestinal disturbances"
+      ],
+      [
+        "vancomycin",
+        "hypersensitivity reactions"
+      ],
+      [
+        "vancomycin",
+        "nephrotoxicity"
+      ],
+      [
+        "vancomycin",
+        "red man syndrome"
+      ],
+      [
+        "vancomycin",
+        "ototoxicity"
+      ],
+      [
+        "vancomycin",
+        "blood disorders"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 144,
+    "text": "The authors present a case study of a mentally healthy man who repeatedly experienced short-lived, obsessional-like suicidal ideas and images after ingestion of the anti-fungal drug ketoconazole.",
+    "ground_truth": [
+      [
+        "ketoconazole",
+        "obsessional-like suicidal ideas and images"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 145,
+    "text": "Cyclophosphamide can rarely cause interstitial pneumonitis and fibrosis.",
+    "ground_truth": [
+      [
+        "cyclophosphamide",
+        "interstitial pneumonitis"
+      ],
+      [
+        "cyclophosphamide",
+        "fibrosis"
+      ]
+    ],
+    "prediction": [
+      [
+        "cyclophosphamide",
+        "interstitial pneumonitis"
+      ],
+      [
+        "cyclophosphamide",
+        "fibrosis"
+      ]
+    ],
+    "correct": [
+      [
+        "cyclophosphamide",
+        "interstitial pneumonitis"
+      ],
+      [
+        "cyclophosphamide",
+        "fibrosis"
+      ]
+    ]
+  },
+  {
+    "idx": 146,
+    "text": "Prior neurologic illness and the syndrome of irreversible lithium-effectuated neurotoxicity (SILENT).",
+    "ground_truth": [
+      [
+        "lithium",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 147,
+    "text": "Gabapentin-induced mood changes with hypomanic features in adults.",
+    "ground_truth": [
+      [
+        "gabapentin",
+        "hypomanic"
+      ],
+      [
+        "gabapentin",
+        "mood changes"
+      ]
+    ],
+    "prediction": [
+      [
+        "gabapentin",
+        "mood changes"
+      ],
+      [
+        "gabapentin",
+        "hypomanic features"
+      ]
+    ],
+    "correct": [
+      [
+        "gabapentin",
+        "mood changes"
+      ]
+    ]
+  },
+  {
+    "idx": 148,
+    "text": "AIMS: To present a case of piloerection after replacing fluvoxamine maleate with milnacipran hydrochloride, and to analyse this effect based on receptor occupancy theory.",
+    "ground_truth": [
+      [
+        "milnacipran hydrochloride",
+        "piloerection"
+      ],
+      [
+        "fluvoxamine maleate",
+        "piloerection"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 149,
+    "text": "An elderly man with procainamide hydrochloride-induced lupus syndrome had a circulating anticoagulant against factor XI and a biologic false-positive (BFP) test result for syphilis.",
+    "ground_truth": [
+      [
+        "procainamide hydrochloride",
+        "lupus syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 150,
+    "text": "Phenytoin toxicity due to concomitant antituberculosis therapy.",
+    "ground_truth": [
+      [
+        "phenytoin",
+        "phenytoin toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 151,
+    "text": "CONCLUSION: A woman receiving enoxaparin every 12 hours developed signs and symptoms of hepatotoxicity after the second dose.",
+    "ground_truth": [
+      [
+        "enoxaparin",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 152,
+    "text": "Pseudomembranous colitis readily occurs in at least certain population groups receiving trimethoprim-sulfamethoxazole.",
+    "ground_truth": [
+      [
+        "trimethoprim",
+        "pseudomembranous colitis"
+      ],
+      [
+        "sulfamethoxazole",
+        "pseudomembranous colitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 153,
+    "text": "A case of priapism associated with trazodone is described.",
+    "ground_truth": [
+      [
+        "trazodone",
+        "priapism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 154,
+    "text": "Chlorpropamide-induced hemolytic anemia.",
+    "ground_truth": [
+      [
+        "chlorpropamide",
+        "hemolytic anemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 155,
+    "text": "Although useful in the management of chronic alcoholism, disulfiram is being increasingly associated with a wide spectrum of side effects and untoward medical sequelae, which now include catatonia.",
+    "ground_truth": [
+      [
+        "disulfiram",
+        "catatonia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 156,
+    "text": "Arterial hypertension associated with topical ocular use of phenylephrine in dogs.",
+    "ground_truth": [
+      [
+        "phenylephrine",
+        "arterial hypertension"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 157,
+    "text": "The fifth patient exhibited paraesthesia and agitation caused by olanzapine that was misdiagnosed as psychotic agitation.",
+    "ground_truth": [
+      [
+        "olanzapine",
+        "agitation"
+      ],
+      [
+        "olanzapine",
+        "paraesthesia"
+      ]
+    ],
+    "prediction": [
+      [
+        "olanzapine",
+        "agitation"
+      ],
+      [
+        "olanzapine",
+        "paraesthesia"
+      ]
+    ],
+    "correct": [
+      [
+        "olanzapine",
+        "agitation"
+      ],
+      [
+        "olanzapine",
+        "paraesthesia"
+      ]
+    ]
+  },
+  {
+    "idx": 158,
+    "text": "We recommend that a TMA in association with quinine be consistently referred to as quinine-associated thrombotic microangiopathy (quinine-TMA) to better distinguish this entity from idiopathic TTP.",
+    "ground_truth": [
+      [
+        "quinine",
+        "thrombotic microangiopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 159,
+    "text": "Early-onset pentamidine-associated second-degree heart block and sinus bradycardia: case report and review of the literature.",
+    "ground_truth": [
+      [
+        "pentamidine",
+        "second-degree heart block"
+      ],
+      [
+        "pentamidine",
+        "sinus bradycardia"
+      ]
+    ],
+    "prediction": [
+      [
+        "pentamidine",
+        "second-degree heart block"
+      ],
+      [
+        "pentamidine",
+        "sinus bradycardia"
+      ]
+    ],
+    "correct": [
+      [
+        "pentamidine",
+        "second-degree heart block"
+      ],
+      [
+        "pentamidine",
+        "sinus bradycardia"
+      ]
+    ]
+  },
+  {
+    "idx": 160,
+    "text": "Physicians should therefore be aware of its occurrence and carefully monitor serum levels of CPK, GOT and GPT during the treatment of diabetes insipidus with clofibrate, especially in patients with associated hypothyroidism, latent or overt, which possibly favors the development of myopathy.",
+    "ground_truth": [
+      [
+        "clofibrate",
+        "myopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 161,
+    "text": "An intertrigo-like eruption from pegylated liposomal doxorubicin.",
+    "ground_truth": [
+      [
+        "doxorubicin",
+        "intertrigo-like eruption"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 162,
+    "text": "Several cases of lithium-induced Creutzfeldt-Jakob syndrome have been reported to date; all of them were elderly patients and a half had \"therapeutic\" lithium serum levels.",
+    "ground_truth": [
+      [
+        "lithium",
+        "creutzfeldt-jakob syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 163,
+    "text": "Nineteen cases of unusual enhanced vincristine neurotoxicity related to itraconazole have been reported in children.",
+    "ground_truth": [
+      [
+        "itraconazole",
+        "neurotoxicity"
+      ],
+      [
+        "vincristine",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 164,
+    "text": "In addition, a 31-year-old man with obsessive-compulsive disorder developed RBD soon after starting fluoxetine therapy, which persisted at PSG study 19 months after fluoxetine discontinuation.",
+    "ground_truth": [
+      [
+        "fluoxetine",
+        "rbd"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 165,
+    "text": "We report a rare case of colonic mucosal necrosis following Kalimate (calcium polystryrene sulfonate), an analogue of Kayexalate without sorbitol in a 34-yr-old man.",
+    "ground_truth": [
+      [
+        "calcium polystryrene sulfonate",
+        "colonic mucosal necrosis"
+      ],
+      [
+        "kalimate",
+        "colonic mucosal necrosis"
+      ],
+      [
+        "kayexalate",
+        "colonic mucosal necrosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 166,
+    "text": "Can roxithromycin and betamethasone induce acute pancreatitis? A case report.",
+    "ground_truth": [
+      [
+        "betamethasone",
+        "acute pancreatitis"
+      ],
+      [
+        "roxithromycin",
+        "acute pancreatitis"
+      ]
+    ],
+    "prediction": [
+      [
+        "betamethasone",
+        "acute pancreatitis"
+      ],
+      [
+        "roxithromycin",
+        "acute pancreatitis"
+      ]
+    ],
+    "correct": [
+      [
+        "betamethasone",
+        "acute pancreatitis"
+      ],
+      [
+        "roxithromycin",
+        "acute pancreatitis"
+      ]
+    ]
+  },
+  {
+    "idx": 167,
+    "text": "Methyldopa-induced liver injury.",
+    "ground_truth": [
+      [
+        "methyldopa",
+        "liver injury"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 168,
+    "text": "This is the first report of a fluoxetine-related death in a child with a confirmed genetic polymorphism of the CYP2D6 gene that results in impaired drug metabolism.",
+    "ground_truth": [
+      [
+        "fluoxetine",
+        "death"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 169,
+    "text": "A case is reported of theophylline intoxication due to a dramatic decrease in theophylline clearance following concomitant administration of viloxazine.",
+    "ground_truth": [
+      [
+        "theophylline",
+        "theophylline intoxication"
+      ],
+      [
+        "viloxazine",
+        "decrease in theophylline clearance"
+      ],
+      [
+        "viloxazine",
+        "theophylline intoxication"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 170,
+    "text": "CASE REPORT: We hereby report a case of radiation recall dermatitis and myositis occurring on gemcitabine monotherapy, five months after completing chemoradiation for locally advanced pancreatic cancer.",
+    "ground_truth": [
+      [
+        "gemcitabine",
+        "myositis"
+      ],
+      [
+        "gemcitabine",
+        "radiation recall dermatitis"
+      ]
+    ],
+    "prediction": [
+      [
+        "gemcitabine",
+        "myositis"
+      ],
+      [
+        "gemcitabine",
+        "radiation recall dermatitis"
+      ]
+    ],
+    "correct": [
+      [
+        "gemcitabine",
+        "myositis"
+      ],
+      [
+        "gemcitabine",
+        "radiation recall dermatitis"
+      ]
+    ]
+  },
+  {
+    "idx": 171,
+    "text": "Salicylate-induced hepatotoxicity is reviewed.",
+    "ground_truth": [
+      [
+        "salicylate",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 172,
+    "text": "Exacerbations of the heart failure were temporally related to the administration of the antitumor antibiotics actinomycin-D (NSC-3053) and mithramycin (NSC-24559).",
+    "ground_truth": [
+      [
+        "nsc-24559",
+        "exacerbations of the heart failure"
+      ],
+      [
+        "mithramycin",
+        "exacerbations of the heart failure"
+      ],
+      [
+        "nsc-3053",
+        "exacerbations of the heart failure"
+      ],
+      [
+        "actinomycin-d",
+        "exacerbations of the heart failure"
+      ]
+    ],
+    "prediction": [
+      [
+        "mithramycin",
+        "exacerbations of the heart failure"
+      ],
+      [
+        "actinomycin-d",
+        "exacerbations of the heart failure"
+      ]
+    ],
+    "correct": [
+      [
+        "mithramycin",
+        "exacerbations of the heart failure"
+      ],
+      [
+        "actinomycin-d",
+        "exacerbations of the heart failure"
+      ]
+    ]
+  },
+  {
+    "idx": 173,
+    "text": "OBJECTIVE: To report a case of chronic, nonproductive cough secondary to the angiotensin-converting enzyme (ACE) inhibitor quinapril, with complete resolution after switching to another ACE inhibitor, fosinopril.",
+    "ground_truth": [
+      [
+        "quinapril",
+        "cough"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 174,
+    "text": "The patient received only the ophthalmic sulfonamide, and it was used for one day, but he developed Stevens-Johnson syndrome.",
+    "ground_truth": [
+      [
+        "sulfonamide",
+        "stevens-johnson syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 175,
+    "text": "Ampicillin increased the preexisting electrical decrement in three rabbits with experimental autoimmune myasthenia gravis while the drug had no deleterious effects in less affected or normal animals.",
+    "ground_truth": [
+      [
+        "ampicillin",
+        "electrical decrement"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 176,
+    "text": "With the use of optical coherence tomography (OCT), two patients with IFN-associated retinopathy who had developed macular edema and reduced visual acuity during the clinical course of IFN therapy were observed.",
+    "ground_truth": [
+      [
+        "ifn",
+        "macular edema"
+      ],
+      [
+        "ifn",
+        "retinopathy"
+      ],
+      [
+        "ifn",
+        "reduced visual acuity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 177,
+    "text": "A previous study of patients with \"quinine-associated TTP/HUS\" found that ADAMTS13 activities were not abnormal in 12/12 patients.",
+    "ground_truth": [
+      [
+        "quinine",
+        "ttp/hus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 178,
+    "text": "Treatment-related myelodysplastic syndrome after temozolomide for recurrent high-grade glioma.",
+    "ground_truth": [
+      [
+        "temozolomide",
+        "myelodysplastic syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 179,
+    "text": "Radiation recall pneumonitis induced by gemcitabine.",
+    "ground_truth": [
+      [
+        "gemcitabine",
+        "radiation recall pneumonitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 180,
+    "text": "Nineteen cases of allergic contact dermatitis to compound tincture of benzoin are described.",
+    "ground_truth": [
+      [
+        "benzoin",
+        "allergic contact dermatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 181,
+    "text": "Barbiturate-induced submassive hepatic necrosis.",
+    "ground_truth": [
+      [
+        "barbiturate",
+        "submassive hepatic necrosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 182,
+    "text": "We report a case of ST elevation in right precordial leads compatible with type 1 Brugada syndrome following administration of propafenone in a patient with Wolff-Parkinson-White syndrome who was receiving lithium at concentrations within therapeutic levels.",
+    "ground_truth": [
+      [
+        "propafenone",
+        "type 1 brugada syndrome"
+      ],
+      [
+        "propafenone",
+        "st elevation in right precordial leads"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 183,
+    "text": "Possible heart failure exacerbation associated with rosiglitazone: case report and literature review.",
+    "ground_truth": [
+      [
+        "rosiglitazone",
+        "heart failure exacerbation"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 184,
+    "text": "We report the case of a 17-year-old male who developed chest pain, elevated cardiac biomarkers, and acute left ventricular dysfunction following a single dose of methylphenidate.",
+    "ground_truth": [
+      [
+        "methylphenidate",
+        "elevated cardiac biomarkers"
+      ],
+      [
+        "methylphenidate",
+        "acute left ventricular dysfunction"
+      ],
+      [
+        "methylphenidate",
+        "chest pain"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 185,
+    "text": "To our knowledge, the syndrome of fever, pulmonary infiltrates, and pleural effusion following use of acyclovir has not been previously reported.",
+    "ground_truth": [
+      [
+        "acyclovir",
+        "fever"
+      ],
+      [
+        "acyclovir",
+        "pulmonary infiltrates"
+      ],
+      [
+        "acyclovir",
+        "pleural effusion"
+      ]
+    ],
+    "prediction": [
+      [
+        "acyclovir",
+        "fever"
+      ],
+      [
+        "acyclovir",
+        "pulmonary infiltrates"
+      ],
+      [
+        "acyclovir",
+        "pleural effusion"
+      ]
+    ],
+    "correct": [
+      [
+        "acyclovir",
+        "fever"
+      ],
+      [
+        "acyclovir",
+        "pulmonary infiltrates"
+      ],
+      [
+        "acyclovir",
+        "pleural effusion"
+      ]
+    ]
+  },
+  {
+    "idx": 186,
+    "text": "Theophylline intoxication following viloxazine induced decrease in clearance.",
+    "ground_truth": [
+      [
+        "theophylline",
+        "theophylline intoxication"
+      ],
+      [
+        "viloxazine",
+        "decrease in clearance"
+      ],
+      [
+        "viloxazine",
+        "theophylline intoxication"
+      ]
+    ],
+    "prediction": [
+      [
+        "viloxazine",
+        "decrease in clearance"
+      ],
+      [
+        "theophylline",
+        "intoxication"
+      ]
+    ],
+    "correct": [
+      [
+        "viloxazine",
+        "decrease in clearance"
+      ]
+    ]
+  },
+  {
+    "idx": 187,
+    "text": "The side effects of MMF, such as bone marrow toxicity, have been reported.",
+    "ground_truth": [
+      [
+        "mmf",
+        "bone marrow toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 188,
+    "text": "In this case, unlike those previously reported, hyponatremia recurred 5 months after switching from citalopram to mirtazapine, which is believed to be a safe antidepressant.",
+    "ground_truth": [
+      [
+        "mirtazapine",
+        "hyponatremia"
+      ],
+      [
+        "citalopram",
+        "hyponatremia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 189,
+    "text": "Rifampicin-induced renal failure.",
+    "ground_truth": [
+      [
+        "rifampicin",
+        "renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 190,
+    "text": "Hypogammaglobulinemia associated with gold therapy: evidence for a partial maturation blockade of B cells.",
+    "ground_truth": [
+      [
+        "gold",
+        "hypogammaglobulinemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 191,
+    "text": "The administration of \"sweet spirits of nitre\" (4% ethyl nitrite CH3CH2ONO in 70% ethyl alcohol) was followed by acute methemoglobinemia and severe anoxic metabolic acidosis in infant twins, Methylene blue administration reversed methemoglobinemia in both, but one twin died from the consequences of hypoxemia.",
+    "ground_truth": [
+      [
+        "4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol",
+        "severe anoxic metabolic acidosis"
+      ],
+      [
+        "sweet spirits of nitre",
+        "acute methemoglobinemia"
+      ],
+      [
+        "4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol",
+        "acute methemoglobinemia"
+      ],
+      [
+        "sweet spirits of nitre",
+        "severe anoxic metabolic acidosis"
+      ],
+      [
+        "sweet spirits of nitre",
+        "died"
+      ],
+      [
+        "4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol",
+        "died"
+      ],
+      [
+        "sweet spirits of nitre",
+        "hypoxemia"
+      ],
+      [
+        "4% ethyl nitrite ch3ch2ono in 70% ethyl alcohol",
+        "hypoxemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 192,
+    "text": "CONCLUSION: This rare case of PTU-induced ANCA-associated vasculitis manifested with ototoxicity in combination with systemic involvement.",
+    "ground_truth": [
+      [
+        "ptu",
+        "ototoxicity"
+      ],
+      [
+        "ptu",
+        "anca-associated vasculitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 193,
+    "text": "Heparin-associated thrombocytopenia: successful therapy with the heparinoid Org 10172 in a patient showing cross-reaction to LMW heparins.",
+    "ground_truth": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 194,
+    "text": "OBJECTIVE: We report a patient who developed neutropenia on clozapine, but behind the cell count decrease showed to be a diurnal variation of the white blood cells (WBC).",
+    "ground_truth": [
+      [
+        "clozapine",
+        "diurnal variation of the white blood cells"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 195,
+    "text": "We report the development of scrotal ulcer in a patient with acute promyleocytic leukemia (APL) within 10 days of treatment with ATRA at a dose of 40 mg orally twice daily.",
+    "ground_truth": [
+      [
+        "atra",
+        "scrotal ulcer"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 196,
+    "text": "One explanation for the noted increase in the theophylline level is that metabolism occurs mainly by cytochrome P450 (CYP 1A2), an enzyme that is known to be inhibited with high concentrations of zafirlukast.",
+    "ground_truth": [
+      [
+        "theophylline",
+        "increase in the theophylline level"
+      ],
+      [
+        "zafirlukast",
+        "increase in the theophylline level"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 197,
+    "text": "Argatroban is hepatically cleared and may be the preferred direct thrombin inhibitor in the presence of significant renal impairment, but conversely has prolonged effects in hepatic failure.",
+    "ground_truth": [
+      [
+        "argatroban",
+        "hepatic failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 198,
+    "text": "CONCLUSION: The present findings suggest that fluvoxamine can cause increased libido in some patients.",
+    "ground_truth": [
+      [
+        "fluvoxamine",
+        "increased libido"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 199,
+    "text": "We report a case with chronic hepatitis C (CHC) who developed sarcoidosis after the treatment by interferon alpha and ribavirin.",
+    "ground_truth": [
+      [
+        "ribavirin",
+        "sarcoidosis"
+      ],
+      [
+        "interferon alpha",
+        "sarcoidosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 200,
+    "text": "We postulate that the bolus of sulprostone resulted in possible coronary spasm that resulted in cardiac arrest.",
+    "ground_truth": [
+      [
+        "sulprostone",
+        "cardiac arrest"
+      ],
+      [
+        "sulprostone",
+        "coronary spasm"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 201,
+    "text": "Acute respiratory depression as a complication of nebulised morphine.",
+    "ground_truth": [
+      [
+        "morphine",
+        "acute respiratory depression"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 202,
+    "text": "A case of timolol-associated heart failure in a 73-year old white man is reported.",
+    "ground_truth": [
+      [
+        "timolol",
+        "heart failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 203,
+    "text": "Circulating anticoagulant in the procainamide-induced lupus syndrome.",
+    "ground_truth": [
+      [
+        "procainamide",
+        "lupus syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 204,
+    "text": "PURPOSE: To report that acute lamotrigine poisoning may result in severe encephalopathy.",
+    "ground_truth": [
+      [
+        "lamotrigine",
+        "encephalopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 205,
+    "text": "Generalized maculopapular and papular purpuric eruptions are perhaps the most common thionamide-induced reactions.",
+    "ground_truth": [
+      [
+        "thionamide",
+        "generalized maculopapular and papular purpuric eruptions"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 206,
+    "text": "Carbamazepine-induced Diabetes mellitus.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "diabetes mellitus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 207,
+    "text": "CONCLUSION: Hypersensitivity reaction should be considered in patients who develop recurrent eosinophilia and deterioration of pulmonary function following the use of tobramycin by inhalation or by intravenous administration.",
+    "ground_truth": [
+      [
+        "tobramycin",
+        "deterioration of pulmonary function"
+      ],
+      [
+        "tobramycin",
+        "recurrent eosinophilia"
+      ]
+    ],
+    "prediction": [
+      [
+        "tobramycin",
+        "deterioration of pulmonary function"
+      ],
+      [
+        "tobramycin",
+        "hypersensitivity reaction"
+      ],
+      [
+        "tobramycin",
+        "eosinophilia"
+      ]
+    ],
+    "correct": [
+      [
+        "tobramycin",
+        "deterioration of pulmonary function"
+      ]
+    ]
+  },
+  {
+    "idx": 208,
+    "text": "Following are two clinical case reports demonstrating profound cerebral edema associated with implantation of Gliadel wafers.",
+    "ground_truth": [
+      [
+        "gliadel",
+        "cerebral edema"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 209,
+    "text": "Transient left homonymous hemianopsia and encephalopathy following treatment of testicular carcinoma with cisplatinum, vinblastine, and bleomycin.",
+    "ground_truth": [
+      [
+        "cisplatinum",
+        "encephalopathy"
+      ],
+      [
+        "bleomycin",
+        "transient left homonymous hemianopsia"
+      ],
+      [
+        "vinblastine",
+        "transient left homonymous hemianopsia"
+      ],
+      [
+        "bleomycin",
+        "encephalopathy"
+      ],
+      [
+        "vinblastine",
+        "encephalopathy"
+      ],
+      [
+        "cisplatinum",
+        "transient left homonymous hemianopsia"
+      ]
+    ],
+    "prediction": [
+      [
+        "cisplatinum",
+        "transient left homonymous hemianopsia"
+      ],
+      [
+        "vinblastine",
+        "transient left homonymous hemianopsia"
+      ],
+      [
+        "bleomycin",
+        "encephalopathy"
+      ]
+    ],
+    "correct": [
+      [
+        "cisplatinum",
+        "transient left homonymous hemianopsia"
+      ],
+      [
+        "vinblastine",
+        "transient left homonymous hemianopsia"
+      ],
+      [
+        "bleomycin",
+        "encephalopathy"
+      ]
+    ]
+  },
+  {
+    "idx": 210,
+    "text": "A case report of a patient with probable cisplatin and bleomycin-induced TMA is presented.",
+    "ground_truth": [
+      [
+        "cisplatin",
+        "tma"
+      ],
+      [
+        "bleomycin",
+        "tma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 211,
+    "text": "Other thiazolidinediones currently in clinical trials may be able to provide the therapeutic benefits of troglitazone without significant hepatotoxicity.",
+    "ground_truth": [
+      [
+        "troglitazone",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 212,
+    "text": "The authors report 2 cases of renal damage associated with lithium carbonate treatment.",
+    "ground_truth": [
+      [
+        "lithium carbonate",
+        "renal damage"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 213,
+    "text": "We report the case of a 60-year-old woman who developed erythema and erosions in the axilla and groin while on PLD for breast cancer.",
+    "ground_truth": [
+      [
+        "pld",
+        "erosions in the axilla and groin"
+      ],
+      [
+        "pld",
+        "erythema"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 214,
+    "text": "This patient developed sequential symptoms including alternative hemiparesis, dysarthria and altered consciousness 5 days after the second course of HD-MTX (8 gm/m2 by 6 h continuous infusion) with leucovorin rescue.",
+    "ground_truth": [
+      [
+        "hd-mtx",
+        "altered consciousness"
+      ],
+      [
+        "hd-mtx",
+        "hemiparesis"
+      ],
+      [
+        "hd-mtx",
+        "dysarthria"
+      ]
+    ],
+    "prediction": [
+      [
+        "hd-mtx",
+        "altered consciousness"
+      ],
+      [
+        "hd-mtx",
+        "alternative hemiparesis"
+      ],
+      [
+        "hd-mtx",
+        "dysarthria"
+      ]
+    ],
+    "correct": [
+      [
+        "hd-mtx",
+        "altered consciousness"
+      ],
+      [
+        "hd-mtx",
+        "dysarthria"
+      ]
+    ]
+  },
+  {
+    "idx": 215,
+    "text": "The biochemistry of paracetamol hepatotoxicity is outlined and the increased susceptibility of alcoholic patients to the hepatotoxic effects of paracetamol is remarked upon.",
+    "ground_truth": [
+      [
+        "paracetamol",
+        "hepatotoxic effects"
+      ],
+      [
+        "paracetamol",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 216,
+    "text": "Diagnosis: practolol induced sclerosing peritonitis.",
+    "ground_truth": [
+      [
+        "practolol",
+        "sclerosing peritonitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 217,
+    "text": "Acute severe intoxication with carbamazepine is associated with seizures, coma and respiratory depression.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "coma"
+      ],
+      [
+        "carbamazepine",
+        "respiratory depression"
+      ],
+      [
+        "carbamazepine",
+        "seizures"
+      ]
+    ],
+    "prediction": [
+      [
+        "carbamazepine",
+        "coma"
+      ],
+      [
+        "carbamazepine",
+        "respiratory depression"
+      ],
+      [
+        "carbamazepine",
+        "seizures"
+      ]
+    ],
+    "correct": [
+      [
+        "carbamazepine",
+        "coma"
+      ],
+      [
+        "carbamazepine",
+        "respiratory depression"
+      ],
+      [
+        "carbamazepine",
+        "seizures"
+      ]
+    ]
+  },
+  {
+    "idx": 218,
+    "text": "2-CdA induces lymphocytopenia, which may explain the improvement in this patient's psoriasis.",
+    "ground_truth": [
+      [
+        "2-cda",
+        "lymphocytopenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 219,
+    "text": "Three diabetic cases of acute dizziness due to initial administration of voglibose.",
+    "ground_truth": [
+      [
+        "voglibose",
+        "acute dizziness"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 220,
+    "text": "Treatment of lithium-induced diabetes insipidus with amiloride.",
+    "ground_truth": [
+      [
+        "lithium",
+        "diabetes insipidus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 221,
+    "text": "Indolent aspergillus arthritis complicating fludarabine-based non-myeloablative stem cell transplantation.",
+    "ground_truth": [
+      [
+        "fludarabine",
+        "aspergillus arthritis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 222,
+    "text": "The authors describe a case of oral-facial dyskinesia that occurred after discontinuation of amoxapine, and antidepressant which may also have neuroleptic effects.",
+    "ground_truth": [
+      [
+        "amoxapine",
+        "oral-facial dyskinesia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 223,
+    "text": "However, as the use of hepatitis B vaccination is growing, adverse side effects, including mental nerve neuropathy, should be observed with an increased frequency.",
+    "ground_truth": [
+      [
+        "hepatitis b vaccination",
+        "mental nerve neuropathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 224,
+    "text": "CONCLUSIONS: The administration of prostaglandin E1 to neonates can cause gastric-outlet obstruction due to antral hyperplasia.",
+    "ground_truth": [
+      [
+        "prostaglandin e1",
+        "antral hyperplasia"
+      ],
+      [
+        "prostaglandin e1",
+        "gastric-outlet obstruction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 225,
+    "text": "The site of thrombosis and the chronological relationship with the IIR implicates a hypersensitivity to infliximab in the causation of the venous thrombosis in this case.",
+    "ground_truth": [
+      [
+        "infliximab",
+        "iir"
+      ],
+      [
+        "infliximab",
+        "venous thrombosis"
+      ],
+      [
+        "infliximab",
+        "hypersensitivity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 226,
+    "text": "We describe a case of PRES in a patient with collapsing focal glomeruloesclerosis (collapsing FGS) with complete recovery after withdrawal of cyclosporine (CSA).",
+    "ground_truth": [
+      [
+        "cyclosporine",
+        "pres"
+      ],
+      [
+        "csa",
+        "pres"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 227,
+    "text": "We report the first case of herpes esophagitis in a renal transplant patient treated with Cyclosporine A while on chronic steroid therapy.",
+    "ground_truth": [
+      [
+        "cyclosporine a",
+        "herpes esophagitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 228,
+    "text": "Prothipendylhydrochloride-induced priapism: case report.",
+    "ground_truth": [
+      [
+        "prothipendylhydrochloride",
+        "priapism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 229,
+    "text": "High-resolution computed tomography scan findings were consistent with ILD, which was sufficient to diagnose as erlotinib-induced ILD.",
+    "ground_truth": [
+      [
+        "erlotinib",
+        "ild"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 230,
+    "text": "New onset of Crohn's disease during treatment of active ankylosing spondylitis with etanercept.",
+    "ground_truth": [
+      [
+        "etanercept",
+        "crohn's disease"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 231,
+    "text": "Can ketamine prescribed for pain cause damage to the urinary tract?",
+    "ground_truth": [
+      [
+        "ketamine",
+        "damage to the urinary tract"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 232,
+    "text": "The patient developed grade 3 capecitabine-induced headache.",
+    "ground_truth": [
+      [
+        "capecitabine",
+        "headache"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 233,
+    "text": "PET scintigraphy of etoposide-induced pulmonary toxicity.",
+    "ground_truth": [
+      [
+        "etoposide",
+        "pulmonary toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 234,
+    "text": "Sulfasalazine-induced lupus erythematosus.",
+    "ground_truth": [
+      [
+        "sulfasalazine",
+        "lupus erythematosus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 235,
+    "text": "Toxic hepatitis induced by disulfiram in a non-alcoholic.",
+    "ground_truth": [
+      [
+        "disulfiram",
+        "toxic hepatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 236,
+    "text": "Hepatolithiasis (intrahepatic stone) during octreotide therapy for acromegaly: a case report.",
+    "ground_truth": [
+      [
+        "octreotide",
+        "hepatolithiasis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 237,
+    "text": "Thrombolytic therapy with tissue plasminogen activator (tPA) for acute myocardial infarction may result in major bleeding complications such as gastrointestinal or intracranial bleeding.",
+    "ground_truth": [
+      [
+        "tissue plasminogen activator",
+        "gastrointestinal or intracranial bleeding"
+      ],
+      [
+        "tpa",
+        "gastrointestinal or intracranial bleeding"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 238,
+    "text": "To our knowledge, drug-induced fever has not been reported with the use of diltiazem hydrochloride, a commonly prescribed calcium channel blocker.",
+    "ground_truth": [
+      [
+        "diltiazem hydrochloride",
+        "fever"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 239,
+    "text": "We describe a case of poisoning with 3,4-methylenedioxymet-amphetamine Ecstasy that presented with all the features suggestive of a fatal outcome, including a creatinine phosphokinase level markedly higher than any previously reported.",
+    "ground_truth": [
+      [
+        "3,4-methylenedioxymet-amphetamine ecstasy",
+        "poisoning"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 240,
+    "text": "We suspect that nefazodone inhibits metabolism of tacrolimus.",
+    "ground_truth": [
+      [
+        "nefazodone",
+        "inhibits metabolism of tacrolimus"
+      ],
+      [
+        "tacrolimus",
+        "inhibits metabolism of tacrolimus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 241,
+    "text": "A patient with rheumatoid arthritis developed an acute intrahepatic cholestasis after 100 mg of sodium aurothiomalate.",
+    "ground_truth": [
+      [
+        "sodium aurothiomalate",
+        "intrahepatic cholestasis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 242,
+    "text": "The ocular motor disturbances are probably an expression of regional 5-FU neurotoxicity primarily affecting the brain stem.",
+    "ground_truth": [
+      [
+        "5-fu",
+        "ocular motor disturbances"
+      ],
+      [
+        "5-fu",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 243,
+    "text": "Neurological improvement and rehabilitation potential following toxic myelopathy due to intrathecal injection of doxorubicin.",
+    "ground_truth": [
+      [
+        "doxorubicin",
+        "toxic myelopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 244,
+    "text": "Hyponatraemia developed after rechallenge with controlled release carbamazepine.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "hyponatraemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 245,
+    "text": "Acute endophthalmitis following intravitreal bevacizumab (Avastin) injection.",
+    "ground_truth": [
+      [
+        "avastin",
+        "acute endophthalmitis"
+      ],
+      [
+        "bevacizumab",
+        "acute endophthalmitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 246,
+    "text": "Lithium is known to cause acute renal failure and tubulo-interstitial disease, but the recently described association with proteinuria or nephrotic syndrome is little recognized.",
+    "ground_truth": [
+      [
+        "lithium",
+        "tubulo-interstitial disease"
+      ],
+      [
+        "lithium",
+        "nephrotic syndrome"
+      ],
+      [
+        "lithium",
+        "proteinuria"
+      ],
+      [
+        "lithium",
+        "acute renal failure"
+      ]
+    ],
+    "prediction": [
+      [
+        "lithium",
+        "tubulo-interstitial disease"
+      ],
+      [
+        "lithium",
+        "nephrotic syndrome"
+      ],
+      [
+        "lithium",
+        "proteinuria"
+      ],
+      [
+        "lithium",
+        "acute renal failure"
+      ]
+    ],
+    "correct": [
+      [
+        "lithium",
+        "tubulo-interstitial disease"
+      ],
+      [
+        "lithium",
+        "acute renal failure"
+      ],
+      [
+        "lithium",
+        "proteinuria"
+      ],
+      [
+        "lithium",
+        "nephrotic syndrome"
+      ]
+    ]
+  },
+  {
+    "idx": 247,
+    "text": "Visual changes secondary to initiation of amiodarone: a case report and review involving ocular management in cardiac polypharmacy.",
+    "ground_truth": [
+      [
+        "amiodarone",
+        "visual changes"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 248,
+    "text": "When the trazodone was reduced, the involuntary movements promptly ceased.",
+    "ground_truth": [
+      [
+        "trazodone",
+        "involuntary movements"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 249,
+    "text": "We described the occurrence of L-dopa-induced myoclonus and seizures in a case of parkinsonism with its SEPs findings.",
+    "ground_truth": [
+      [
+        "l-dopa",
+        "seizures"
+      ],
+      [
+        "l-dopa",
+        "myoclonus"
+      ]
+    ],
+    "prediction": [
+      [
+        "l-dopa",
+        "seizures"
+      ],
+      [
+        "l-dopa",
+        "myoclonus"
+      ]
+    ],
+    "correct": [
+      [
+        "l-dopa",
+        "seizures"
+      ],
+      [
+        "l-dopa",
+        "myoclonus"
+      ]
+    ]
+  },
+  {
+    "idx": 250,
+    "text": "Relief by naloxone of morphine-induced spasm of the sphincter of Oddi in a post-cholecystectomy patient.",
+    "ground_truth": [
+      [
+        "morphine",
+        "spasm"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 251,
+    "text": "Acute syphilitic posterior placoid chorioretinitis following intravitreal triamcinolone acetonide injection.",
+    "ground_truth": [
+      [
+        "triamcinolone acetonide",
+        "acute syphilitic posterior placoid chorioretinitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 252,
+    "text": "Visceral leishmaniasis and macrophagic activation syndrome in a patient with rheumatoid arthritis under treatment with adalimumab.",
+    "ground_truth": [
+      [
+        "adalimumab",
+        "visceral leishmaniasis"
+      ],
+      [
+        "adalimumab",
+        "macrophagic activation syndrome"
+      ]
+    ],
+    "prediction": [
+      [
+        "adalimumab",
+        "visceral leishmaniasis"
+      ],
+      [
+        "adalimumab",
+        "macrophagic activation syndrome"
+      ]
+    ],
+    "correct": [
+      [
+        "adalimumab",
+        "visceral leishmaniasis"
+      ],
+      [
+        "adalimumab",
+        "macrophagic activation syndrome"
+      ]
+    ]
+  },
+  {
+    "idx": 253,
+    "text": "Ballistic movements due to ischemic infarcts after intravenous heroin overdose: report of two cases.",
+    "ground_truth": [
+      [
+        "heroin",
+        "ballistic movements"
+      ],
+      [
+        "heroin",
+        "ischemic infarcts"
+      ]
+    ],
+    "prediction": [
+      [
+        "heroin",
+        "ballistic movements"
+      ],
+      [
+        "heroin",
+        "ischemic infarcts"
+      ]
+    ],
+    "correct": [
+      [
+        "heroin",
+        "ballistic movements"
+      ],
+      [
+        "heroin",
+        "ischemic infarcts"
+      ]
+    ]
+  },
+  {
+    "idx": 254,
+    "text": "A 33-year-old male presented with brown discolouration of the fingernails following the application of 4% hydroquinone in sorbolene cream and 0.1% tretinoin cream to the face intermittently for 9 months.",
+    "ground_truth": [
+      [
+        "0.1% tretinoin cream",
+        "brown discolouration of the fingernails"
+      ],
+      [
+        "4% hydroquinone in sorbolene cream",
+        "brown discolouration of the fingernails"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 255,
+    "text": "In this paper we report a case of nimodipine overdosage resulting in prolonged hypotension and hypoxemia, which was successfully treated with calcium gluconate.",
+    "ground_truth": [
+      [
+        "nimodipine",
+        "prolonged hypotension"
+      ],
+      [
+        "nimodipine",
+        "hypoxemia"
+      ]
+    ],
+    "prediction": [
+      [
+        "nimodipine",
+        "hypotension"
+      ],
+      [
+        "nimodipine",
+        "hypoxemia"
+      ]
+    ],
+    "correct": [
+      [
+        "nimodipine",
+        "hypoxemia"
+      ]
+    ]
+  },
+  {
+    "idx": 256,
+    "text": "Mitomycin-C induced hemolytic uremic syndrome: a case report.",
+    "ground_truth": [
+      [
+        "mitomycin-c",
+        "hemolytic uremic syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 257,
+    "text": "Meperidine-associated central nervous system (CNS) excitatory toxicities are believed to be caused by accumulation of the active metabolite normeperidine.",
+    "ground_truth": [
+      [
+        "meperidine",
+        "accumulation of the active metabolite normeperidine"
+      ],
+      [
+        "meperidine",
+        "central nervous system (cns) excitatory toxicities"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 258,
+    "text": "Two patients with osteomyelitis who developed reversible cholestatic jaundice during treatment with oxacillin derivatives are described.",
+    "ground_truth": [
+      [
+        "oxacillin",
+        "reversible cholestatic jaundice"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 259,
+    "text": "The addition of intrathecal methotrexate to treatment protocols has increased survival rates in children with acute lymphoblastic leukemia but is also associated with varying degrees of neurotoxicity.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 260,
+    "text": "Administration of intravenous nitroglycerin in a patient with idiopathic pulmonary hypertension resulted in an increase in pulmonary artery pressure associated with a decrease in blood flow that is best explained by an increase in pulmonary vascular resistance.",
+    "ground_truth": [
+      [
+        "nitroglycerin",
+        "increase in pulmonary artery pressure"
+      ],
+      [
+        "nitroglycerin",
+        "increase in pulmonary vascular resistance"
+      ],
+      [
+        "nitroglycerin",
+        "decrease in blood flow"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 261,
+    "text": "This paper reports on a 6.9-year-old autistic male who developed repeated episodes of acute dystonic reactions associated with pimozide administration at the doses of 0.096 mg/kg/day and 0.032 mg/kg/day and 32 hours following pimozide withdrawal, as well as during subsequent thioridazine administration.",
+    "ground_truth": [
+      [
+        "thioridazine",
+        "acute dystonic reactions"
+      ],
+      [
+        "pimozide",
+        "acute dystonic reactions"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 262,
+    "text": "We describe a case of disseminated muscular cysticercosis followed by myositis (fever, diffuse myalgia, weakness of the lower limbs, and inflammatory reaction around dying cysticerci) induced by praziquantel therapy, an event not described previously.",
+    "ground_truth": [
+      [
+        "praziquantel",
+        "inflammatory reaction around dying cysticerci"
+      ],
+      [
+        "praziquantel",
+        "diffuse myalgia"
+      ],
+      [
+        "praziquantel",
+        "myositis"
+      ],
+      [
+        "praziquantel",
+        "fever"
+      ],
+      [
+        "praziquantel",
+        "weakness of the lower limbs"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 263,
+    "text": "A case of SIADH induced by mizoribin administration.",
+    "ground_truth": [
+      [
+        "mizoribin",
+        "siadh"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 264,
+    "text": "RESULTS: Including our own patient, a total of 26 cases of gemcitabine-associated HUS were identified.",
+    "ground_truth": [
+      [
+        "gemcitabine",
+        "hus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 265,
+    "text": "This case describes a 52-year-old white woman who developed a spontaneous nasal septal perforation after given the antiangiogenic drug, bevacizumab, for metastatic ovarian cancer treatment.",
+    "ground_truth": [
+      [
+        "bevacizumab",
+        "spontaneous nasal septal perforation"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 266,
+    "text": "BACKGROUND: To describe the occurrence of ocular hypertension in four patients following injection of ranibizumab intravitreally.",
+    "ground_truth": [
+      [
+        "ranibizumab",
+        "ocular hypertension"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 267,
+    "text": "Eosinophilia has been encountered from 0.2 to 61.7% in clozapine-treated patients, mostly with a transient course and spontaneous remission.",
+    "ground_truth": [
+      [
+        "clozapine",
+        "eosinophilia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 268,
+    "text": "In all cases, seizures were controlled by withdrawal of phenytoin and reduction of drug levels.",
+    "ground_truth": [
+      [
+        "phenytoin",
+        "seizures"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 269,
+    "text": "This report presents a potential case of risperidone-induced tardive dyskinesia.",
+    "ground_truth": [
+      [
+        "risperidone",
+        "tardive dyskinesia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 270,
+    "text": "Reversal of severe methanol-induced visual impairment: no evidence of retinal toxicity due to fomepizole.",
+    "ground_truth": [
+      [
+        "methanol",
+        "visual impairment"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 271,
+    "text": "Sensory neuropathy revealing necrotizing vasculitis during infliximab therapy for rheumatoid arthritis.",
+    "ground_truth": [
+      [
+        "infliximab",
+        "sensory neuropathy"
+      ],
+      [
+        "infliximab",
+        "necrotizing vasculitis"
+      ]
+    ],
+    "prediction": [
+      [
+        "infliximab",
+        "sensory neuropathy"
+      ],
+      [
+        "infliximab",
+        "necrotizing vasculitis"
+      ]
+    ],
+    "correct": [
+      [
+        "infliximab",
+        "sensory neuropathy"
+      ],
+      [
+        "infliximab",
+        "necrotizing vasculitis"
+      ]
+    ]
+  },
+  {
+    "idx": 272,
+    "text": "Moxalactam is more likely to be associated with platelet dysfunction.",
+    "ground_truth": [
+      [
+        "moxalactam",
+        "platelet dysfunction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 273,
+    "text": "The diagnosis was based on the rapid onset of renal failure, presence of eosinophilia, skin rash, and characteristic renal biopsy finding, following the administration of ampicillin.",
+    "ground_truth": [
+      [
+        "ampicillin",
+        "renal failure"
+      ],
+      [
+        "ampicillin",
+        "eosinophilia"
+      ],
+      [
+        "ampicillin",
+        "skin rash"
+      ]
+    ],
+    "prediction": [
+      [
+        "ampicillin",
+        "renal failure"
+      ],
+      [
+        "ampicillin",
+        "eosinophilia"
+      ],
+      [
+        "ampicillin",
+        "skin rash"
+      ]
+    ],
+    "correct": [
+      [
+        "ampicillin",
+        "renal failure"
+      ],
+      [
+        "ampicillin",
+        "eosinophilia"
+      ],
+      [
+        "ampicillin",
+        "skin rash"
+      ]
+    ]
+  },
+  {
+    "idx": 274,
+    "text": "Severe respiratory syncytial virus pulmonary infection in a patient treated with fludarabine for chronic lymphocytic leukemia.",
+    "ground_truth": [
+      [
+        "fludarabine",
+        "severe respiratory syncytial virus pulmonary infection"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 275,
+    "text": "Cutaneous necrosis as a result of interferon alfa is an infrequent complication with unknown pathogenesis, in which a cutaneous local immune-mediated inflammatory process might be involved.",
+    "ground_truth": [
+      [
+        "interferon alfa",
+        "cutaneous necrosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 276,
+    "text": "Severe adenovirus pneumonia (AVP) following infliximab infusion for the treatment of Crohn's disease.",
+    "ground_truth": [
+      [
+        "infliximab",
+        "severe adenovirus pneumonia"
+      ],
+      [
+        "infliximab",
+        "avp"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 277,
+    "text": "Macular infarction after endophthalmitis treated with vitrectomy and intravitreal gentamicin.",
+    "ground_truth": [
+      [
+        "gentamicin",
+        "macular infarction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 278,
+    "text": "A case of contact dermatitis due to sodium bisulfite in an ophthalmic solution.",
+    "ground_truth": [
+      [
+        "sodium bisulfite",
+        "contact dermatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 279,
+    "text": "Fibrosis of corpus cavernosum after intracavernous injection of phentolamine/papaverine.",
+    "ground_truth": [
+      [
+        "phentolamine",
+        "fibrosis of corpus cavernosum"
+      ],
+      [
+        "papaverine",
+        "fibrosis of corpus cavernosum"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 280,
+    "text": "Multifocal electroretinographic abnormalities in ethambutol-induced visual loss.",
+    "ground_truth": [
+      [
+        "ethambutol",
+        "visual loss"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 281,
+    "text": "A 65-year-old man on warfarin therapy with a sudden spontaneous onset of sub-conjunctival haematoma associated with bloody tears was assessed in the clinic following a referral from an optometrist.",
+    "ground_truth": [
+      [
+        "warfarin",
+        "bloody tears"
+      ],
+      [
+        "warfarin",
+        "sub-conjunctival haematoma"
+      ]
+    ],
+    "prediction": [
+      [
+        "warfarin",
+        "bloody tears"
+      ],
+      [
+        "warfarin",
+        "sub-conjunctival haematoma"
+      ]
+    ],
+    "correct": [
+      [
+        "warfarin",
+        "bloody tears"
+      ],
+      [
+        "warfarin",
+        "sub-conjunctival haematoma"
+      ]
+    ]
+  },
+  {
+    "idx": 282,
+    "text": "Here we describe another case of VOD occurring after LT, but in which the causative role was played by azathioprine.",
+    "ground_truth": [
+      [
+        "azathioprine",
+        "vod"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 283,
+    "text": "Prior neurologic illness or CNS insult of any kind is known to increase the vulnerability to neurotoxicity of lithium.",
+    "ground_truth": [
+      [
+        "lithium",
+        "neurotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 284,
+    "text": "We suggest that nicotinic acid was the cause of his liver disease, that this case is of particular note because of the rather short period of therapy before the onset of liver injury and the severity of the hepatic failure, and that the probable increased use of nicotinic acid for serum cholesterol control makes it especially important for physicians and their patients to be alert to the signs of hepatotoxicity.",
+    "ground_truth": [
+      [
+        "nicotinic acid",
+        "liver disease"
+      ],
+      [
+        "nicotinic acid",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 285,
+    "text": "Pirmenol hydrochloride-induced QT prolongation and T wave inversion on electrocardiogram during treatment for symptomatic atrial fibrillation.",
+    "ground_truth": [
+      [
+        "pirmenol hydrochloride",
+        "t wave inversion"
+      ],
+      [
+        "pirmenol hydrochloride",
+        "qt prolongation"
+      ]
+    ],
+    "prediction": [
+      [
+        "pirmenol hydrochloride",
+        "t wave inversion"
+      ],
+      [
+        "pirmenol hydrochloride",
+        "qt prolongation"
+      ]
+    ],
+    "correct": [
+      [
+        "pirmenol hydrochloride",
+        "t wave inversion"
+      ],
+      [
+        "pirmenol hydrochloride",
+        "qt prolongation"
+      ]
+    ]
+  },
+  {
+    "idx": 286,
+    "text": "We describe a patient with M4 AML treated with standard chemotherapy followed by G-CSF who developed marked monocytosis on day 8 of G-CSF therapy.",
+    "ground_truth": [
+      [
+        "g-csf",
+        "monocytosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 287,
+    "text": "Inappropriate antidiuretic hormone following adenine arabinoside administration.",
+    "ground_truth": [
+      [
+        "adenine arabinoside",
+        "inappropriate antidiuretic hormone"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 288,
+    "text": "Gemcitabine-induced pericardial effusion and tamponade after unblocked cardiac irradiation.",
+    "ground_truth": [
+      [
+        "gemcitabine",
+        "tamponade"
+      ],
+      [
+        "gemcitabine",
+        "pericardial effusion"
+      ]
+    ],
+    "prediction": [
+      [
+        "gemcitabine",
+        "tamponade"
+      ],
+      [
+        "gemcitabine",
+        "pericardial effusion"
+      ]
+    ],
+    "correct": [
+      [
+        "gemcitabine",
+        "tamponade"
+      ],
+      [
+        "gemcitabine",
+        "pericardial effusion"
+      ]
+    ]
+  },
+  {
+    "idx": 289,
+    "text": "The second was an 82-year-old man receiving ticlopidine for 2 years when, during a febrile episode, he was found neutropenic with marrow aplasia.",
+    "ground_truth": [
+      [
+        "ticlopidine",
+        "marrow aplasia"
+      ],
+      [
+        "ticlopidine",
+        "neutropenic"
+      ]
+    ],
+    "prediction": [
+      [
+        "ticlopidine",
+        "marrow aplasia"
+      ],
+      [
+        "ticlopidine",
+        "neutropenic"
+      ]
+    ],
+    "correct": [
+      [
+        "ticlopidine",
+        "marrow aplasia"
+      ],
+      [
+        "ticlopidine",
+        "neutropenic"
+      ]
+    ]
+  },
+  {
+    "idx": 290,
+    "text": "Palpable purpuric skin lesions on the anterior surface of both legs appeared on the 55th day of amphotericin B treatment.",
+    "ground_truth": [
+      [
+        "amphotericin b",
+        "palpable purpuric skin lesions"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 291,
+    "text": "Localized purpura associated with lamotrigine.",
+    "ground_truth": [
+      [
+        "lamotrigine",
+        "localized purpura"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 292,
+    "text": "We report a patient who experienced LABD shortly after starting carbamazepine therapy.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "labd"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 293,
+    "text": "This case describes fulminant hepatic failure in a patient taking disulfiram with no previous liver disease and report of being compliant with alcohol abstinence.",
+    "ground_truth": [
+      [
+        "disulfiram",
+        "fulminant hepatic failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 294,
+    "text": "We describe a case of interstitial hypoxaemiant pneumonitis probably related to flecainide in a patient with the LEOPARD syndrome, a rare congenital disorder.",
+    "ground_truth": [
+      [
+        "flecainide",
+        "interstitial hypoxaemiant pneumonitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 295,
+    "text": "Therefore, although garenoxacin reportedly causes fewer adverse reactions for cardiac rhythms than third-generation quinolone antibiotics, one must be cautious of the interference of other drugs during hypokalemia in order to prevent TdP.",
+    "ground_truth": [
+      [
+        "garenoxacin",
+        "hypokalemia"
+      ],
+      [
+        "garenoxacin",
+        "cardiac rhythms"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 296,
+    "text": "The Center for Disease Control has received numerous reports of an eosinophilia-myalgia syndrome related to products containing L-tryptophan.",
+    "ground_truth": [
+      [
+        "l-tryptophan",
+        "eosinophilia-myalgia syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 297,
+    "text": "OBJECTIVE: To report a case of significant hepatic and renal failure with the use of argatroban in a patient with heparin-induced thrombocytopenia (HIT) requiring continuous veno-veno hemodialysis (CVVHD).",
+    "ground_truth": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "argatroban",
+        "hepatic and renal failure"
+      ]
+    ],
+    "prediction": [
+      [
+        "argatroban",
+        "hepatic failure"
+      ],
+      [
+        "argatroban",
+        "renal failure"
+      ]
+    ],
+    "correct": []
+  },
+  {
+    "idx": 298,
+    "text": "PURPOSE: We evaluated the in vitro hemodialysis ratio and subsequent toxicity and pharmacokinetics of ifosfamide in an anephric patient with Wilms' tumor.",
+    "ground_truth": [
+      [
+        "toxicity",
+        "ifosfamide"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 299,
+    "text": "Angioimmunoblastic lymphadenopathy with dysproteinemia following doxycycline administration.",
+    "ground_truth": [
+      [
+        "doxycycline",
+        "angioimmunoblastic lymphadenopathy with dysproteinemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 300,
+    "text": "We report the case of a young healthy woman who presented an early overanticoagulation when receiving acenocoumarol for a first thromboembolic episode.",
+    "ground_truth": [
+      [
+        "acenocoumarol",
+        "overanticoagulation"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 301,
+    "text": "She had been on Copaxone 20 mg/day treatment for 2 years when she first exhibited gastrointestinal symptoms.",
+    "ground_truth": [
+      [
+        "copaxone",
+        "gastrointestinal symptoms"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 302,
+    "text": "Mitomycin C-related hemolytic uremic syndrome in cancer patients.",
+    "ground_truth": [
+      [
+        "mitomycin c",
+        "hemolytic uremic syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 303,
+    "text": "In all three cases, autopsy revealed gross and microscopic features indistinguishable from those seen in the Hamman-Rich syndrome, and methotrexate hepatotoxicity was present in one.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 304,
+    "text": "The literature search revealed 22 cases of hypersensitivity reaction to cyclosporine.",
+    "ground_truth": [
+      [
+        "cyclosporine",
+        "hypersensitivity reaction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 305,
+    "text": "The cases of two asthmatic patients who became hypokalemic after inhalation of normal doses of albuterol are presented.",
+    "ground_truth": [
+      [
+        "albuterol",
+        "hypokalemic"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 306,
+    "text": "CONCLUSIONS: Life-threatening adrenal suppression, requiring hydrocortisone supplementation and intensive therapy, was observed and successfully treated in a newborn, whose mother had received high-dose methylprednisolone in late pregnancy.",
+    "ground_truth": [
+      [
+        "methylprednisolone",
+        "adrenal suppression"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 307,
+    "text": "A selective association between fluoxetine and extensive, prominent eye movements in nonrapid eye movement (NREM) sleep was detected, utilizing Fisher's exact one-tailed statistic (p less than 0.00001 for each comparison).",
+    "ground_truth": [
+      [
+        "fluoxetine",
+        "eye movements in nonrapid eye movement (nrem) sleep"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 308,
+    "text": "Type 1 diabetes mellitus provoked by peginterferon alpha-2b plus ribavirin treatment for chronic hepatitis C.",
+    "ground_truth": [
+      [
+        "ribavirin",
+        "type 1 diabetes mellitus"
+      ],
+      [
+        "peginterferon alpha-2b",
+        "type 1 diabetes mellitus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 309,
+    "text": "A 35-year-old woman presented with neurotoxicity correlated to an i.v. regimen of 5-fluorouracil as episodes of acute confusional state and abnormalities of symmetrically restricted diffusion in the periventricular white matter and corpus callosum.",
+    "ground_truth": [
+      [
+        "5-fluorouracil",
+        "neurotoxicity"
+      ],
+      [
+        "5-fluorouracil",
+        "acute confusional state"
+      ]
+    ],
+    "prediction": [
+      [
+        "5-fluorouracil",
+        "acute confusional state"
+      ],
+      [
+        "5-fluorouracil",
+        "neurotoxicity"
+      ]
+    ],
+    "correct": [
+      [
+        "5-fluorouracil",
+        "neurotoxicity"
+      ],
+      [
+        "5-fluorouracil",
+        "acute confusional state"
+      ]
+    ]
+  },
+  {
+    "idx": 310,
+    "text": "This case suggests that sarcoidosis and pravastatin, two entities not frequently associated with myotonia, may interact in a synergistic manner to produce severe clinical myotonia in humans.",
+    "ground_truth": [
+      [
+        "pravastatin",
+        "myotonia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 311,
+    "text": "This therapy was also complicated by Warfarin-induced skin necrosis.",
+    "ground_truth": [
+      [
+        "warfarin",
+        "skin necrosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 312,
+    "text": "Propranolol: an unrecognized cause of central nervous system dysfunction in patients undergoing cardiopulmonary bypass.",
+    "ground_truth": [
+      [
+        "propranolol",
+        "central nervous system dysfunction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 313,
+    "text": "Lovastatin-induced rhabdomyolysis possibly associated with clarithromycin and azithromycin.",
+    "ground_truth": [
+      [
+        "azithromycin",
+        "rhabdomyolysis"
+      ],
+      [
+        "lovastatin",
+        "rhabdomyolysis"
+      ],
+      [
+        "clarithromycin",
+        "rhabdomyolysis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 314,
+    "text": "A case of high-grade endometrial stromal sarcoma, confined into an intrauterine polypoid growth, in a woman with a history of breast cancer who was treated with adjuvant tamoxifen.",
+    "ground_truth": [
+      [
+        "tamoxifen",
+        "intrauterine polypoid growth"
+      ],
+      [
+        "tamoxifen",
+        "high-grade endometrial stromal sarcoma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 315,
+    "text": "Early overanticoagulation with acenocoumarol due to a genetic polymorphism of cytochrome P450 CYP2C9.",
+    "ground_truth": [
+      [
+        "acenocoumarol",
+        "overanticoagulation"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 316,
+    "text": "The rash seen in this patient, who was treated with cephalexin, may be similar to the rash seen with ampicillin treatment of patients with infectious mononucleosis.",
+    "ground_truth": [
+      [
+        "cephalexin",
+        "rash"
+      ],
+      [
+        "ampicillin",
+        "rash"
+      ]
+    ],
+    "prediction": [
+      [
+        "cephalexin",
+        "rash"
+      ],
+      [
+        "ampicillin",
+        "rash"
+      ]
+    ],
+    "correct": [
+      [
+        "cephalexin",
+        "rash"
+      ],
+      [
+        "ampicillin",
+        "rash"
+      ]
+    ]
+  },
+  {
+    "idx": 317,
+    "text": "These cases and a review of the literature suggested that hepatotoxicity, though rare, should be added to the list of adverse reactions to D-penicillamine.",
+    "ground_truth": [
+      [
+        "d-penicillamine",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 318,
+    "text": "We report a case of fulminant neuroleptic malignant syndrome in a man aged 70 developing within 12 hours of starting six-hourly intravenous metoclopramide.",
+    "ground_truth": [
+      [
+        "metoclopramide",
+        "neuroleptic malignant syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 319,
+    "text": "Disopyramide-induced heart block.",
+    "ground_truth": [
+      [
+        "disopyramide",
+        "heart block"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 320,
+    "text": "Hemorrhage from a falx meningioma after internal use of low-dose aspirin.",
+    "ground_truth": [
+      [
+        "aspirin",
+        "hemorrhage"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 321,
+    "text": "MTX-induced hepatic injury and liver enzyme elevations have been demonstrated after treatment of leukemia, gestational disease and during treatment of psoriasis and rheumatoid arthritis.",
+    "ground_truth": [
+      [
+        "mtx",
+        "hepatic injury"
+      ],
+      [
+        "mtx",
+        "liver enzyme elevations"
+      ]
+    ],
+    "prediction": [
+      [
+        "mtx",
+        "hepatic injury"
+      ],
+      [
+        "mtx",
+        "liver enzyme elevations"
+      ]
+    ],
+    "correct": [
+      [
+        "mtx",
+        "hepatic injury"
+      ],
+      [
+        "mtx",
+        "liver enzyme elevations"
+      ]
+    ]
+  },
+  {
+    "idx": 322,
+    "text": "The mechanism by which sunitinib induces gynaecomastia is thought to be associated with an unknown direct action on breast hormonal receptors.",
+    "ground_truth": [
+      [
+        "sunitinib",
+        "gynaecomastia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 323,
+    "text": "The association of phenothiazine overdose and respiratory distress syndrome merits consideration.",
+    "ground_truth": [
+      [
+        "phenothiazine",
+        "respiratory distress syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 324,
+    "text": "This case highlights the need to monitor liver enzymes in patients treated with 6-TG and identifies the need for additional research focused on the mechanism of thiopurine-induced hepatic injury.",
+    "ground_truth": [
+      [
+        "thiopurine",
+        "hepatic injury"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 325,
+    "text": "We describe a 41 yr old leprosy patient treated for 10 yrs with clofazimine who underwent laparotomy for severe abdominal pain.",
+    "ground_truth": [
+      [
+        "clofazimine",
+        "abdominal pain"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 326,
+    "text": "Gold nephropathy.",
+    "ground_truth": [
+      [
+        "gold",
+        "nephropathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 327,
+    "text": "Serotonin syndrome induced by transitioning from phenelzine to venlafaxine: four patient reports.",
+    "ground_truth": [
+      [
+        "venlafaxine",
+        "serotonin syndrome"
+      ],
+      [
+        "phenelzine",
+        "serotonin syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 328,
+    "text": "Dorzolamide-induced choroidal detachment in a surgically untreated eye.",
+    "ground_truth": [
+      [
+        "dorzolamide",
+        "choroidal detachment"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 329,
+    "text": "In addition, loading with one low oral dose of serine produced psychotic symptoms 5 h later which lasted 3-6 h.",
+    "ground_truth": [
+      [
+        "serine",
+        "psychotic symptoms"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 330,
+    "text": "After therapy with parenteral amiodarone (2300 mg in 3 days) and other measures, signs of congestive heart failure disappeared; subsequently the patient developed jaundice, marked increase in serum transaminase levels and fall in prothrombin time, and histologic changes of severe centrilobular necrosis were observed in hepatic biopsy.",
+    "ground_truth": [
+      [
+        "amiodarone",
+        "jaundice"
+      ],
+      [
+        "amiodarone",
+        "severe centrilobular necrosis"
+      ],
+      [
+        "amiodarone",
+        "fall in prothrombin time"
+      ],
+      [
+        "amiodarone",
+        "marked increase in serum transaminase levels"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 331,
+    "text": "A patient developed cholestatic hepatitis while being treated with nitrofurantoin.",
+    "ground_truth": [
+      [
+        "nitrofurantoin",
+        "cholestatic hepatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 332,
+    "text": "Although high-dose methotrexate has been shown to be useful in the treatment of primary osteogenic sarcoma, the tumoricidal effects of therapy appear to have caused a fatal rise in intracranial pressure.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "fatal rise in intracranial pressure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 333,
+    "text": "Aseptic meningitis, hemolytic anemia, hepatitis, and orthostatic hypotension in a patient treated with trimethoprim-sulfamethoxazole.",
+    "ground_truth": [
+      [
+        "trimethoprim",
+        "orthostatic hypotension"
+      ],
+      [
+        "trimethoprim",
+        "aseptic meningitis"
+      ],
+      [
+        "sulfamethoxazole",
+        "hepatitis"
+      ],
+      [
+        "sulfamethoxazole",
+        "hemolytic anemia"
+      ],
+      [
+        "sulfamethoxazole",
+        "orthostatic hypotension"
+      ],
+      [
+        "sulfamethoxazole",
+        "aseptic meningitis"
+      ],
+      [
+        "trimethoprim",
+        "hepatitis"
+      ],
+      [
+        "trimethoprim",
+        "hemolytic anemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 334,
+    "text": "CONCLUSIONS: We report this case of the concomitant appearance of multiple skin cancers and nail changes associated with hydroxyurea use.",
+    "ground_truth": [
+      [
+        "hydroxyurea",
+        "multiple skin cancers"
+      ],
+      [
+        "hydroxyurea",
+        "nail changes"
+      ]
+    ],
+    "prediction": [
+      [
+        "hydroxyurea",
+        "multiple skin cancers"
+      ],
+      [
+        "hydroxyurea",
+        "nail changes"
+      ]
+    ],
+    "correct": [
+      [
+        "hydroxyurea",
+        "multiple skin cancers"
+      ],
+      [
+        "hydroxyurea",
+        "nail changes"
+      ]
+    ]
+  },
+  {
+    "idx": 335,
+    "text": "One of the side-effects of intravitreal triamcinolone is the development of cataract, and it is known that cataract extraction can exacerbate macular degeneration.",
+    "ground_truth": [
+      [
+        "triamcinolone",
+        "cataract"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 336,
+    "text": "Bilateral anterior uveitis associated with clomiphene citrate.",
+    "ground_truth": [
+      [
+        "clomiphene citrate",
+        "bilateral anterior uveitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 337,
+    "text": "OBJECTIVE: This case report outlines a significant type of morbidity due to continued use of gabapentin during an episode of acute renal failure.",
+    "ground_truth": [
+      [
+        "gabapentin",
+        "acute renal failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 338,
+    "text": "OBJECTIVE: To report a patient developing fulminant liver failure while being treated with clarithromycin for pneumonia.",
+    "ground_truth": [
+      [
+        "clarithromycin",
+        "fulminant liver failure"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 339,
+    "text": "We present a unique case of GTBM in a patient with myeloma following treatment with Melphalan.",
+    "ground_truth": [
+      [
+        "melphalan",
+        "gtbm"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 340,
+    "text": "Clinical and morphological features of gold neuropathy.",
+    "ground_truth": [
+      [
+        "gold",
+        "neuropathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 341,
+    "text": "Administration of pyridoxine to an infant after a long period of convulsions was followed by acute hypotonia.",
+    "ground_truth": [
+      [
+        "pyridoxine",
+        "acute hypotonia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 342,
+    "text": "However, he developed acute renal failure, hyperkalemia, and hyperuricemia 30 d after receiving the sorafenib treatment.",
+    "ground_truth": [
+      [
+        "sorafenib",
+        "hyperkalemia"
+      ],
+      [
+        "sorafenib",
+        "acute renal failure"
+      ],
+      [
+        "sorafenib",
+        "hyperuricemia"
+      ]
+    ],
+    "prediction": [
+      [
+        "sorafenib",
+        "hyperkalemia"
+      ],
+      [
+        "sorafenib",
+        "acute renal failure"
+      ],
+      [
+        "sorafenib",
+        "hyperuricemia"
+      ]
+    ],
+    "correct": [
+      [
+        "sorafenib",
+        "hyperkalemia"
+      ],
+      [
+        "sorafenib",
+        "acute renal failure"
+      ],
+      [
+        "sorafenib",
+        "hyperuricemia"
+      ]
+    ]
+  },
+  {
+    "idx": 343,
+    "text": "Probable early acute hepatitis with parenteral amiodarone.",
+    "ground_truth": [
+      [
+        "amiodarone",
+        "acute hepatitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 344,
+    "text": "Herein is reported an unusual case of coexistent warfarin-induced skin necrosis and heparin-induced thrombocytopenia following mitral valve replacement for thromboembolic phenomena associated with marantic endocarditis and bronchial adenocarcinoma.",
+    "ground_truth": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "warfarin",
+        "skin necrosis"
+      ]
+    ],
+    "prediction": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "warfarin",
+        "skin necrosis"
+      ]
+    ],
+    "correct": [
+      [
+        "heparin",
+        "thrombocytopenia"
+      ],
+      [
+        "warfarin",
+        "skin necrosis"
+      ]
+    ]
+  },
+  {
+    "idx": 345,
+    "text": "Electrocardiographic findings and laboratory data indicated a diagnosis of acute myocardial infarction due to the L-thyroxine therapy.",
+    "ground_truth": [
+      [
+        "l-thyroxine",
+        "acute myocardial infarction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 346,
+    "text": "Physicians should be aware of the possible association between the use of alteplase and the development of subfascial hemorrhage.",
+    "ground_truth": [
+      [
+        "alteplase",
+        "subfascial hemorrhage"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 347,
+    "text": "Premature closure of the ductus arteriosus: variable response among monozygotic twins after in utero exposure to indomethacin.",
+    "ground_truth": [
+      [
+        "indomethacin",
+        "premature closure of the ductus arteriosus"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 348,
+    "text": "Gallstones and bile sludge are common side effects of octreotide therapy but rarely become symptomatic or require treatment.",
+    "ground_truth": [
+      [
+        "octreotide",
+        "bile sludge"
+      ],
+      [
+        "octreotide",
+        "gallstones"
+      ]
+    ],
+    "prediction": [
+      [
+        "octreotide",
+        "gallstones"
+      ],
+      [
+        "octreotide",
+        "bile sludge"
+      ]
+    ],
+    "correct": [
+      [
+        "octreotide",
+        "gallstones"
+      ],
+      [
+        "octreotide",
+        "bile sludge"
+      ]
+    ]
+  },
+  {
+    "idx": 349,
+    "text": "Aggressive management of doxorubicin-induced cardiomyopathy associated with 'low' doses of doxorubicin.",
+    "ground_truth": [
+      [
+        "doxorubicin",
+        "cardiomyopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 350,
+    "text": "Posterior reversible encephalopathy syndrome associated with methotrexate neurotoxicity: conventional magnetic resonance and diffusion-weighted imaging findings.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "posterior reversible encephalopathy syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 351,
+    "text": "Transient acute myopia resulting from isotretinoin (accutane) therapy.",
+    "ground_truth": [
+      [
+        "isotretinoin",
+        "transient acute myopia"
+      ],
+      [
+        "accutane",
+        "transient acute myopia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 352,
+    "text": "In deciding if tamoxifen therapy is warranted, all potentially life-threatening adverse events associated with tamoxifen should be considered, including endometrial adenocarcinoma or uterine sarcoma.",
+    "ground_truth": [
+      [
+        "tamoxifen",
+        "uterine sarcoma"
+      ],
+      [
+        "tamoxifen",
+        "endometrial adenocarcinoma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 353,
+    "text": "METHODS: Two patients with exudative age-related macular degeneration were treated sequentially with an intravitreal injection of bevacizumab and developed signs of severe but painless infectious endophthalmitis 2 days later.",
+    "ground_truth": [
+      [
+        "bevacizumab",
+        "painless infectious endophthalmitis"
+      ],
+      [
+        "bevacizumab",
+        "age-related macular degeneration"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 354,
+    "text": "Nitrofurantoin-induced pulmonary toxicity during pregnancy: a report of a case and review of the literature.",
+    "ground_truth": [
+      [
+        "nitrofurantoin",
+        "pulmonary toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 355,
+    "text": "PURPOSE: Symptomatic visual field constriction thought to be associated with vigabatrin has been reported.",
+    "ground_truth": [
+      [
+        "vigabatrin",
+        "visual field constriction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 356,
+    "text": "Restless legs syndrome and periodic limb movements during sleep probably associated with olanzapine.",
+    "ground_truth": [
+      [
+        "olanzapine",
+        "periodic limb movements during sleep"
+      ],
+      [
+        "olanzapine",
+        "restless legs syndrome"
+      ]
+    ],
+    "prediction": [
+      [
+        "olanzapine",
+        "periodic limb movements during sleep"
+      ],
+      [
+        "olanzapine",
+        "restless legs syndrome"
+      ]
+    ],
+    "correct": [
+      [
+        "olanzapine",
+        "periodic limb movements during sleep"
+      ],
+      [
+        "olanzapine",
+        "restless legs syndrome"
+      ]
+    ]
+  },
+  {
+    "idx": 357,
+    "text": "Herein we report four patients who underwent liver transplantation and developed neutropenia while receiving MMF.",
+    "ground_truth": [
+      [
+        "mmf",
+        "neutropenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 358,
+    "text": "Concurrent acute megaloblastic anaemia and pneumonitis: a severe side-effect of low-dose methotrexate therapy during rheumatoid arthritis.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "concurrent acute megaloblastic anaemia"
+      ],
+      [
+        "methotrexate",
+        "pneumonitis"
+      ]
+    ],
+    "prediction": [
+      [
+        "methotrexate",
+        "megaloblastic anaemia"
+      ],
+      [
+        "methotrexate",
+        "pneumonitis"
+      ]
+    ],
+    "correct": [
+      [
+        "methotrexate",
+        "pneumonitis"
+      ]
+    ]
+  },
+  {
+    "idx": 359,
+    "text": "METHODS: A 55-year-old woman became stuporous after overdose with lamotrigine (LTG) and valproic acid (VPA) tablets.",
+    "ground_truth": [
+      [
+        "vpa",
+        "stuporous"
+      ],
+      [
+        "lamotrigine",
+        "stuporous"
+      ],
+      [
+        "valproic acid",
+        "stuporous"
+      ],
+      [
+        "ltg",
+        "stuporous"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 360,
+    "text": "We describe a patient who experienced a lichenoid eruption after the initiation of salsalate for relief of arthritic pain.",
+    "ground_truth": [
+      [
+        "salsalate",
+        "lichenoid eruption"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 361,
+    "text": "Acute onset of nephrotic syndrome during interferon-alpha retreatment for chronic active hepatitis C.",
+    "ground_truth": [
+      [
+        "interferon-alpha",
+        "nephrotic syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 362,
+    "text": "RESULTS: Ethambutol, and to a lesser extent isoniazid, are both implicated in the development of visually related side effects.",
+    "ground_truth": [
+      [
+        "ethambutol",
+        "development of visually related side effects"
+      ],
+      [
+        "isoniazid",
+        "development of visually related side effects"
+      ]
+    ],
+    "prediction": [
+      [
+        "ethambutol",
+        "visually related side effects"
+      ],
+      [
+        "isoniazid",
+        "visually related side effects"
+      ]
+    ],
+    "correct": []
+  },
+  {
+    "idx": 363,
+    "text": "Fatal venous thrombembolism complicating imatinib therapy in a patient with metastatic gastrointestinal stromal tumor.",
+    "ground_truth": [
+      [
+        "imatinib",
+        "fatal venous thrombembolism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 364,
+    "text": "After a second dose of metoclopramide, these symptoms recurred and were associated with confusion, agitation, fever, diaphoresis, tachypnea, tachycardia, and hypertension.",
+    "ground_truth": [
+      [
+        "metoclopramide",
+        "fever"
+      ],
+      [
+        "metoclopramide",
+        "agitation"
+      ],
+      [
+        "metoclopramide",
+        "tachypnea"
+      ],
+      [
+        "metoclopramide",
+        "tachycardia"
+      ],
+      [
+        "metoclopramide",
+        "hypertension"
+      ],
+      [
+        "metoclopramide",
+        "diaphoresis"
+      ],
+      [
+        "metoclopramide",
+        "confusion"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 365,
+    "text": "Protease inhibitor-induced carbamazepine toxicity.",
+    "ground_truth": [
+      [
+        "carbamazepine",
+        "carbamazepine toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 366,
+    "text": "Propranolol-related bronchospasm in patients without history of asthma.",
+    "ground_truth": [
+      [
+        "propranolol",
+        "bronchospasm"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 367,
+    "text": "CONCLUSIONS: In our reported case, a local hyperproduction of TNF-alpha from macrophages that was induced by the injected insulin could explain the dedifferentiation of the adipocytes of the subcutaneous tissue and the reversion that was induced by the local injection of dexamethasone.",
+    "ground_truth": [
+      [
+        "insulin",
+        "dedifferentiation of the adipocytes"
+      ],
+      [
+        "insulin",
+        "hyperproduction of tnf-alpha"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 368,
+    "text": "Acetazolamide-accelerated anticonvulsant osteomalacia.",
+    "ground_truth": [
+      [
+        "acetazolamide",
+        "osteomalacia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 369,
+    "text": "The bleeding resolved on discontinuation of APV.",
+    "ground_truth": [
+      [
+        "apv",
+        "bleeding"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 370,
+    "text": "Naproxen, the most common offender, has been associated with a dimorphic clinical pattern: a PCT-like presentation and one simulating erythropoietic protoporphyria in the pediatric population.",
+    "ground_truth": [
+      [
+        "naproxen",
+        "erythropoietic protoporphyria"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 371,
+    "text": "Although adverse effects are usually mild, the author reports here a case of leucocytopenia and thrombocytopenia with quetiapine treatment that required its discontinuation.",
+    "ground_truth": [
+      [
+        "quetiapine",
+        "thrombocytopenia"
+      ],
+      [
+        "quetiapine",
+        "leucocytopenia"
+      ]
+    ],
+    "prediction": [
+      [
+        "quetiapine",
+        "thrombocytopenia"
+      ],
+      [
+        "quetiapine",
+        "leucocytopenia"
+      ]
+    ],
+    "correct": [
+      [
+        "quetiapine",
+        "thrombocytopenia"
+      ],
+      [
+        "quetiapine",
+        "leucocytopenia"
+      ]
+    ]
+  },
+  {
+    "idx": 372,
+    "text": "We report a case of biopsy-proven acute tubulointerstitial nephritis associated with a second course of flurbiprofen, a nonsteroidal anti-inflammatory drug of the propionic acid class.",
+    "ground_truth": [
+      [
+        "flurbiprofen",
+        "acute tubulointerstitial nephritis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 373,
+    "text": "We report a case of an 11-year-old boy who experienced an anaphylactic reaction after administration of bacitracin ointment.",
+    "ground_truth": [
+      [
+        "bacitracin",
+        "anaphylactic reaction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 374,
+    "text": "Electrical proarrhythmia with procainamide: a new ICD-drug interaction.",
+    "ground_truth": [
+      [
+        "procainamide",
+        "electrical proarrhythmia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 375,
+    "text": "Two other patients who did not receive prochlorperazine, developed retinal problems which later improved, one after only 15 g of desferrioxamine.",
+    "ground_truth": [
+      [
+        "desferrioxamine",
+        "retinal problems"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 376,
+    "text": "Although interferon gamma has been implicated in the pathogenesis of sarcoidosis, only a few cases of sarcoidosis associated with interferon alpha therapy have been reported.",
+    "ground_truth": [
+      [
+        "interferon alpha",
+        "sarcoidosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 377,
+    "text": "Sideroblastic anemia due to linezolid in a patient with a left ventricular assist device.",
+    "ground_truth": [
+      [
+        "linezolid",
+        "sideroblastic anemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 378,
+    "text": "We describe a patient in whom noncardiogenic pulmonary edema developed during intrabiliary infusion of monooctanoin.",
+    "ground_truth": [
+      [
+        "monooctanoin",
+        "noncardiogenic pulmonary edema"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 379,
+    "text": "Niacin maculopathy.",
+    "ground_truth": [
+      [
+        "niacin",
+        "maculopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 380,
+    "text": "Ten years of behavioral data are presented to support the hypothesis that phenobarbital was exacerbating maladaptive behaviors.",
+    "ground_truth": [
+      [
+        "phenobarbital",
+        "maladaptive behaviors"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 381,
+    "text": "Fatal gemcitabine-induced pulmonary toxicity in metastatic   gallbladder adenocarcinoma.",
+    "ground_truth": [
+      [
+        "gemcitabine",
+        "pulmonary toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 382,
+    "text": "Isoniazid induced gynaecomastia: a case report.",
+    "ground_truth": [
+      [
+        "isoniazid",
+        "gynaecomastia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 383,
+    "text": "Although this G-CSF-driven leucocytosis was alarming it did not appear to have adversely affected the patient's prognosis.",
+    "ground_truth": [
+      [
+        "g-csf",
+        "leucocytosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 384,
+    "text": "Although lung specimens were lacking from these three patients, it is suggested that the pulmonary toxicity of CCNU may be dose-related.",
+    "ground_truth": [
+      [
+        "ccnu",
+        "pulmonary toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 385,
+    "text": "A case of a 21-year-old woman who had developed mild hepatotoxicity while receiving choline magnesium trisalicylate therapy is described.",
+    "ground_truth": [
+      [
+        "choline magnesium trisalicylate",
+        "hepatotoxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 386,
+    "text": "A 52 year-old male patient diagnosed of ankylosing spondylitis presented with an iron deficiency anemia after a ten-month treatment of methotrexate.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "iron deficiency anemia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 387,
+    "text": "Patients receiving amifostine who develop only fever should be evaluated for an adverse drug reaction, as well as for sepsis and fevers of neutropenia, and it may be necessary to discontinue the drug.",
+    "ground_truth": [
+      [
+        "amifostine",
+        "sepsis"
+      ],
+      [
+        "amifostine",
+        "fever"
+      ],
+      [
+        "amifostine",
+        "fevers of neutropenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 388,
+    "text": "Cholestatic liver disease with ductopenia (vanishing bile duct syndrome) after administration of clindamycin and trimethoprim-sulfamethoxazole.",
+    "ground_truth": [
+      [
+        "trimethoprim-sulfamethoxazole",
+        "ductopenia"
+      ],
+      [
+        "clindamycin",
+        "ductopenia"
+      ],
+      [
+        "clindamycin",
+        "cholestatic liver disease"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "cholestatic liver disease"
+      ],
+      [
+        "clindamycin",
+        "vanishing bile duct syndrome"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "vanishing bile duct syndrome"
+      ]
+    ],
+    "prediction": [
+      [
+        "clindamycin",
+        "cholestatic liver disease"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "ductopenia"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "cholestatic liver disease"
+      ],
+      [
+        "clindamycin",
+        "ductopenia"
+      ]
+    ],
+    "correct": [
+      [
+        "clindamycin",
+        "cholestatic liver disease"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "ductopenia"
+      ],
+      [
+        "trimethoprim-sulfamethoxazole",
+        "cholestatic liver disease"
+      ],
+      [
+        "clindamycin",
+        "ductopenia"
+      ]
+    ]
+  },
+  {
+    "idx": 389,
+    "text": "Sulfasalazine has been associated with bronchopulmonary complications of inflammatory bowel disease (IBD) in adults.",
+    "ground_truth": [
+      [
+        "sulfasalazine",
+        "ibd"
+      ],
+      [
+        "sulfasalazine",
+        "bronchopulmonary complications of inflammatory bowel disease"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 390,
+    "text": "Ocular ethambutol toxicity.",
+    "ground_truth": [
+      [
+        "ethambutol",
+        "ocular ethambutol toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 391,
+    "text": "A case of Erythema Multiforme Bullosum in patient of lepromatous leprosy with pulmonary tuberculosis due to Rifampicin is described.",
+    "ground_truth": [
+      [
+        "rifampicin",
+        "erythema multiforme bullosum"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 392,
+    "text": "Well-known signs of methotrexate toxicity include bone marrow suppression and oral and gastrointestinal ulceration.",
+    "ground_truth": [
+      [
+        "methotrexate",
+        "oral and gastrointestinal ulceration"
+      ],
+      [
+        "methotrexate",
+        "methotrexate toxicity"
+      ],
+      [
+        "methotrexate",
+        "bone marrow suppression"
+      ]
+    ],
+    "prediction": [
+      [
+        "methotrexate",
+        "oral and gastrointestinal ulceration"
+      ],
+      [
+        "methotrexate",
+        "bone marrow suppression"
+      ]
+    ],
+    "correct": [
+      [
+        "methotrexate",
+        "oral and gastrointestinal ulceration"
+      ],
+      [
+        "methotrexate",
+        "bone marrow suppression"
+      ]
+    ]
+  },
+  {
+    "idx": 393,
+    "text": "Captopril-associated \"pseudocholangitis'.",
+    "ground_truth": [
+      [
+        "captopril",
+        "pseudocholangitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 394,
+    "text": "High-dose intravenous mannitol infusion in various clinical settings may result in acute renal failure (ARF).",
+    "ground_truth": [
+      [
+        "mannitol",
+        "acute renal failure"
+      ],
+      [
+        "mannitol",
+        "arf"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 395,
+    "text": "We herein described an additional patient with BCR-ABL (ela2) positive acute lymphoblastic leukemia who developed tumor lysis syndrome after 10-day treatment with imatinib.",
+    "ground_truth": [
+      [
+        "imatinib",
+        "tumor lysis syndrome"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 396,
+    "text": "Elderly patients for whom nitrate has been prescribed should be warned of the occurrence of hypotension, leading to unconsciousness.",
+    "ground_truth": [
+      [
+        "nitrate",
+        "hypotension"
+      ],
+      [
+        "nitrate",
+        "unconsciousness"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 397,
+    "text": "The two middle aged women presented with respiratory symptoms after prolonged treatment with nitrofurantoin.",
+    "ground_truth": [
+      [
+        "nitrofurantoin",
+        "respiratory symptoms"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 398,
+    "text": "To our knowledge, this is the first report of insulin-induced lipohypertrophy with detailed histological examinations.",
+    "ground_truth": [
+      [
+        "insulin",
+        "lipohypertrophy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 399,
+    "text": "We report a 45-year-old Chinese man with CML and chronic hepatitis B virus infection, on imatinib treatment, presenting with herpetic rash and acute liver failure.",
+    "ground_truth": [
+      [
+        "imatinib",
+        "acute liver failure"
+      ],
+      [
+        "imatinib",
+        "herpetic rash"
+      ]
+    ],
+    "prediction": [
+      [
+        "imatinib",
+        "acute liver failure"
+      ],
+      [
+        "imatinib",
+        "herpetic rash"
+      ]
+    ],
+    "correct": [
+      [
+        "imatinib",
+        "acute liver failure"
+      ],
+      [
+        "imatinib",
+        "herpetic rash"
+      ]
+    ]
+  },
+  {
+    "idx": 400,
+    "text": "We diagnosed this case as danazol induced thrombocytopenia.",
+    "ground_truth": [
+      [
+        "danazol",
+        "thrombocytopenia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 401,
+    "text": "Ulcerative proctitis in juvenile systemic lupus erythematosus after ibuprofen treatment.",
+    "ground_truth": [
+      [
+        "ibuprofen",
+        "ulcerative proctitis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 402,
+    "text": "Metformin-associated lactic acidosis (MALA) is a serious metabolic complication that occurs because of metformin accumulation in patients who become dehydrated or developed acute renal failure.",
+    "ground_truth": [
+      [
+        "metformin",
+        "lactic acidosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 403,
+    "text": "The occurrence of neuromuscular blockade and the resulting potentiation of muscle relaxants during magnesium sulfate (MgSO4) administration is well known.",
+    "ground_truth": [
+      [
+        "mgso4",
+        "potentiation of muscle relaxants"
+      ],
+      [
+        "magnesium sulfate",
+        "neuromuscular blockade"
+      ],
+      [
+        "magnesium sulfate",
+        "potentiation of muscle relaxants"
+      ],
+      [
+        "mgso4",
+        "neuromuscular blockade"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 404,
+    "text": "Hepato-biliary abnormalities secondary to ceftriaxone use: a case report.",
+    "ground_truth": [
+      [
+        "ceftriaxone",
+        "hepato-biliary abnormalities"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 405,
+    "text": "Aminoglutethimide was discontinued until completion of radiotherapy, and the rash resolved.",
+    "ground_truth": [
+      [
+        "aminoglutethimide",
+        "rash"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 406,
+    "text": "In the second case, five cardiac arrests due to ventricular tachycardia and fibrillation occurred during several hours after beginning a trial of bretylium maintenance therapy for complex ventricular ectopy.",
+    "ground_truth": [
+      [
+        "bretylium",
+        "cardiac arrests"
+      ],
+      [
+        "bretylium",
+        "fibrillation"
+      ],
+      [
+        "bretylium",
+        "ventricular tachycardia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 407,
+    "text": "Shortly after chemotherapy and an injection of pegfilgrastim, the patient developed poorly defined, rapidly progressive erythema, edema, and pain in his right forearm.",
+    "ground_truth": [
+      [
+        "pegfilgrastim",
+        "rapidly progressive erythema"
+      ],
+      [
+        "pegfilgrastim",
+        "pain in his right forearm"
+      ],
+      [
+        "pegfilgrastim",
+        "edema"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 408,
+    "text": "Because the cerebellar toxicity may be worsened by continuation of therapy after initial onset of symptoms, prompt termination of HDARAC is recommended.",
+    "ground_truth": [
+      [
+        "hdarac",
+        "cerebellar toxicity"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 409,
+    "text": "OBJECTIVE: To report a case of phenolphthalein-induced toxic epidermal necrolysis (TEN) in a patient maintained on several other medications more commonly known to be associated with TEN.",
+    "ground_truth": [
+      [
+        "phenolphthalein",
+        "toxic epidermal necrolysis"
+      ],
+      [
+        "phenolphthalein",
+        "ten"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 410,
+    "text": "Hemodynamic collapse following labetalol administration in preeclampsia.",
+    "ground_truth": [
+      [
+        "labetalol",
+        "hemodynamic collapse"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 411,
+    "text": "Three senile patients developed fatal acute encephalopathy while receiving calcium hopantenate.",
+    "ground_truth": [
+      [
+        "calcium hopantenate",
+        "fatal acute encephalopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 412,
+    "text": "No other endogenous or exogenous cause for the gynecomastia could be found except for the theophylline.",
+    "ground_truth": [
+      [
+        "theophylline",
+        "gynecomastia"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 413,
+    "text": "Rapid onset of muscle weakness (rhabdomyolysis) associated with the combined use of simvastatin and colchicine.",
+    "ground_truth": [
+      [
+        "simvastatin",
+        "rhabdomyolysis"
+      ],
+      [
+        "colchicine",
+        "rhabdomyolysis"
+      ],
+      [
+        "colchicine",
+        "muscle weakness"
+      ],
+      [
+        "simvastatin",
+        "muscle weakness"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 414,
+    "text": "We recommended periodic examination of the serum proteins in patients receiving diphenylhydantoin in order to detect development of monoclonal gammopathy.",
+    "ground_truth": [
+      [
+        "diphenylhydantoin",
+        "monoclonal gammopathy"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 415,
+    "text": "We conclude that while thrombocytopenia and schistocytosis can be seen in quinine-associated TTP/HUS, the pathophysiology seems to be distinct from that seen in most cases of idiopathic TTP (i.e., severely decreased ADAMTS13 with an inhibitor).",
+    "ground_truth": [
+      [
+        "quinine",
+        "ttp/hus"
+      ],
+      [
+        "quinine",
+        "thrombocytopenia"
+      ],
+      [
+        "quinine",
+        "schistocytosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 416,
+    "text": "Squamous-cell carcinoma arising in a basal-cell epithelioma treated with 5-fluorouracil.",
+    "ground_truth": [
+      [
+        "5-fluorouracil",
+        "squamous-cell carcinoma"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 417,
+    "text": "A 21-year-old patient developed rhabdomyolysis during his nineteenth week of treatment with clozapine for drug-resistant schizophrenia.",
+    "ground_truth": [
+      [
+        "clozapine",
+        "rhabdomyolysis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 418,
+    "text": "Lichen planus and acne provoked by gold.",
+    "ground_truth": [
+      [
+        "gold",
+        "acne"
+      ],
+      [
+        "gold",
+        "lichen planus"
+      ]
+    ],
+    "prediction": [
+      [
+        "gold",
+        "acne"
+      ],
+      [
+        "gold",
+        "lichen planus"
+      ]
+    ],
+    "correct": [
+      [
+        "gold",
+        "acne"
+      ],
+      [
+        "gold",
+        "lichen planus"
+      ]
+    ]
+  },
+  {
+    "idx": 419,
+    "text": "The fetal valproate syndrome (FVS) is characterized by distinctive facial appearance, major and minor malformations, and developmental delay.",
+    "ground_truth": [
+      [
+        "valproate",
+        "developmental delay"
+      ],
+      [
+        "valproate",
+        "fvs"
+      ],
+      [
+        "valproate",
+        "distinctive facial appearance"
+      ],
+      [
+        "valproate",
+        "major and minor malformations"
+      ],
+      [
+        "valproate",
+        "fetal valproate syndrome"
+      ]
+    ],
+    "prediction": [
+      [
+        "valproate",
+        "distinctive facial appearance"
+      ],
+      [
+        "valproate",
+        "developmental delay"
+      ],
+      [
+        "valproate",
+        "major and minor malformations"
+      ]
+    ],
+    "correct": [
+      [
+        "valproate",
+        "distinctive facial appearance"
+      ],
+      [
+        "valproate",
+        "developmental delay"
+      ],
+      [
+        "valproate",
+        "major and minor malformations"
+      ]
+    ]
+  },
+  {
+    "idx": 420,
+    "text": "Imidazoline intoxication in children.",
+    "ground_truth": [
+      [
+        "imidazoline",
+        "imidazoline intoxication"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 421,
+    "text": "Because there were no other obvious causes of renal failure in either patient, we propose that skeletal muscle ischemia developed during vasopressin infusion, followed by release of myoglobin and renal damage.",
+    "ground_truth": [
+      [
+        "vasopressin",
+        "skeletal muscle ischemia"
+      ],
+      [
+        "vasopressin",
+        "renal damage"
+      ]
+    ],
+    "prediction": [
+      [
+        "vasopressin",
+        "renal damage"
+      ],
+      [
+        "vasopressin",
+        "myoglobin release"
+      ],
+      [
+        "vasopressin",
+        "skeletal muscle ischemia"
+      ]
+    ],
+    "correct": [
+      [
+        "vasopressin",
+        "renal damage"
+      ],
+      [
+        "vasopressin",
+        "skeletal muscle ischemia"
+      ]
+    ]
+  },
+  {
+    "idx": 422,
+    "text": "This is the first report of a possible association between an acute cardiovascular event and venlafaxine.",
+    "ground_truth": [
+      [
+        "venlafaxine",
+        "acute cardiovascular event"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 423,
+    "text": "He had priapism following the use of olanzapine.",
+    "ground_truth": [
+      [
+        "olanzapine",
+        "priapism"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 424,
+    "text": "Fever, pulmonary infiltrates, and pleural effusion following acyclovir therapy for herpes zoster ophthalmicus.",
+    "ground_truth": [
+      [
+        "acyclovir",
+        "fever"
+      ],
+      [
+        "acyclovir",
+        "pulmonary infiltrates"
+      ],
+      [
+        "acyclovir",
+        "pleural effusion"
+      ]
+    ],
+    "prediction": [
+      [
+        "acyclovir",
+        "fever"
+      ],
+      [
+        "acyclovir",
+        "pulmonary infiltrates"
+      ],
+      [
+        "acyclovir",
+        "pleural effusion"
+      ]
+    ],
+    "correct": [
+      [
+        "acyclovir",
+        "fever"
+      ],
+      [
+        "acyclovir",
+        "pulmonary infiltrates"
+      ],
+      [
+        "acyclovir",
+        "pleural effusion"
+      ]
+    ]
+  },
+  {
+    "idx": 425,
+    "text": "Fatal acute tubular necrosis occurred in 1 patient in whom intravesical formalin was used to control massive persistent hemorrhage from radiation cystitis.",
+    "ground_truth": [
+      [
+        "formalin",
+        "fatal acute tubular necrosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 426,
+    "text": "The first reported case, in an adult, of cholestyramine induced hyperchloremic metabolic acidosis is a 70 year old female with a two year history of primary biliary cirrhosis confirmed by histologic and immunologic criteria.",
+    "ground_truth": [
+      [
+        "cholestyramine",
+        "hyperchloremic metabolic acidosis"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  },
+  {
+    "idx": 427,
+    "text": "Recombinant VIIa concentrate in the management of bleeding following prothrombin complex concentrate-related myocardial infarction in patients with haemophilia and inhibitors.",
+    "ground_truth": [
+      [
+        "prothrombin complex concentrate",
+        "myocardial infarction"
+      ]
+    ],
+    "prediction": [],
+    "correct": []
+  }
+]

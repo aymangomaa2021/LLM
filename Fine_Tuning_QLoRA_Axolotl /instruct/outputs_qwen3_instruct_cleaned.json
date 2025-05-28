@@ -1,0 +1,2230 @@
+[
+  [
+    {
+      "drug": "chloramphenicol sodium succinate",
+      "ade": "hypersensitivity reaction"
+    }
+  ],
+  [
+    {
+      "drug": "quinine",
+      "ade": "ototoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "heroin",
+      "ade": "bilateral ballism"
+    }
+  ],
+  [
+    {
+      "drug": "scopolamine",
+      "ade": "unilateral acute angle-closure glaucoma"
+    }
+  ],
+  [
+    {
+      "drug": "lithium",
+      "ade": "CDI"
+    },
+    {
+      "drug": "lithium",
+      "ade": "NDI"
+    }
+  ],
+  [
+    {
+      "drug": "carbamazepine",
+      "ade": "hyperammonemia"
+    }
+  ],
+  [
+    {
+      "drug": "Quetiapine",
+      "ade": "leucopenia"
+    },
+    {
+      "drug": "Quetiapine",
+      "ade": "agranulocytosis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Carbamazepine",
+      "ade": "right bundle branch block"
+    }
+  ],
+  [
+    {
+      "drug": "cyclosporine",
+      "ade": "anaphylactic reaction"
+    }
+  ],
+  [
+    {
+      "drug": "Flecainide",
+      "ade": "pneumonitis"
+    },
+    {
+      "drug": "Flecainide",
+      "ade": "acute respiratory failure"
+    }
+  ],
+  [
+    {
+      "drug": "metformin",
+      "ade": "digestive hemorrhage"
+    }
+  ],
+  [
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "thrombotic thrombocytopenic purpura"
+    }
+  ],
+  [
+    {
+      "drug": "olanzapine",
+      "ade": "neutropenia"
+    }
+  ],
+  [
+    {
+      "drug": "lacosamide",
+      "ade": "dizziness"
+    },
+    {
+      "drug": "lacosamide",
+      "ade": "ataxia"
+    }
+  ],
+  [
+    {
+      "drug": "nabumetone",
+      "ade": "progressive edema"
+    }
+  ],
+  [
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "aseptic meningitis"
+    },
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "hemolytic anemia"
+    },
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "hepatitis"
+    },
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "orthostatic hypotension"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "cisplatin",
+      "ade": "Hypersensitivity reactions"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "methamphetamine",
+      "ade": "Keratitis"
+    }
+  ],
+  [
+    {
+      "drug": "Allopurinol",
+      "ade": "hand and foot deformities"
+    }
+  ],
+  [
+    {
+      "drug": "lamotrigine",
+      "ade": "apnea"
+    }
+  ],
+  [
+    {
+      "drug": "lansoprazole",
+      "ade": "thrombocytopenia"
+    }
+  ],
+  [
+    {
+      "drug": "doxycycline",
+      "ade": "photo-onycholysis"
+    }
+  ],
+  [
+    {
+      "drug": "Interferon",
+      "ade": "neuropsychiatric symptoms"
+    }
+  ],
+  [
+    {
+      "drug": "captopril",
+      "ade": "nonoliguric acute renal failure"
+    }
+  ],
+  [
+    {
+      "drug": "BCG",
+      "ade": "Cutaneous mycobacterial infection"
+    }
+  ],
+  [
+    {
+      "drug": "verapamil",
+      "ade": "sustained hypotension"
+    }
+  ],
+  [
+    {
+      "drug": "MP",
+      "ade": "renal failure"
+    }
+  ],
+  [
+    {
+      "drug": "gelatine",
+      "ade": "anaphylaxis"
+    }
+  ],
+  [
+    {
+      "drug": "thrombin",
+      "ade": "lower extremity arterial thrombosis"
+    }
+  ],
+  [
+    {
+      "drug": "carbamazepine",
+      "ade": "Asthenozoospermia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "clomipramine",
+      "ade": "serotonin syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "clozapine",
+      "ade": "TD"
+    }
+  ],
+  [
+    {
+      "drug": "linezolid",
+      "ade": "interstitial nephritis"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "renal toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "5-fluorouracil",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "infliximab",
+      "ade": "colitis"
+    }
+  ],
+  [
+    {
+      "drug": "sumatriptan",
+      "ade": "splenic infarction"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "cisplatin",
+      "ade": "status epilepticus"
+    },
+    {
+      "drug": "gemcitabine",
+      "ade": "status epilepticus"
+    }
+  ],
+  [
+    {
+      "drug": "lenalidomide",
+      "ade": "severe aplastic anemia"
+    }
+  ],
+  [
+    {
+      "drug": "Albuterol",
+      "ade": "hypokalemia"
+    },
+    {
+      "drug": "Albuterol",
+      "ade": "cardiac toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "pentamidine",
+      "ade": "chemical cellulitis"
+    },
+    {
+      "drug": "pentamidine",
+      "ade": "ulceration"
+    }
+  ],
+  [
+    {
+      "drug": "carboplatin",
+      "ade": "hypersensitivity"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "adriamycin",
+      "ade": "cardiotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "thyroid hormone",
+      "ade": "secondary hypothyroidism"
+    }
+  ],
+  [
+    {
+      "drug": "isoniazid",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "phenylpropanolamine",
+      "ade": "intracerebral hemorrhage"
+    }
+  ],
+  [
+    {
+      "drug": "antiplatelet drugs",
+      "ade": "thrombocytopenia"
+    },
+    {
+      "drug": "antiplatelet drugs",
+      "ade": "thrombosis"
+    }
+  ],
+  [
+    {
+      "drug": "clozapine",
+      "ade": "Heat stroke"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "methyldopa",
+      "ade": "hepatitis"
+    }
+  ],
+  [
+    {
+      "drug": "metronidazole",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "thalidomide",
+      "ade": "sustained ventricular tachycardia"
+    }
+  ],
+  [
+    {
+      "drug": "anastrozole",
+      "ade": "acute renal failure"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "L-asparaginase",
+      "ade": "transient ischemic attacks"
+    },
+    {
+      "drug": "L-asparaginase",
+      "ade": "seizure"
+    }
+  ],
+  [
+    {
+      "drug": "olanzapine",
+      "ade": "hyperglycemia"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "HU",
+      "ade": "transfusions"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "Pneumocystis carinii pneumonia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Nitrofurantoin",
+      "ade": "acute liver damage"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Terbinafine",
+      "ade": "cholestatic liver disease"
+    }
+  ],
+  [
+    {
+      "drug": "Chlorambucil",
+      "ade": "central nervous toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "paclitaxel",
+      "ade": "Pulmonary fibrosis"
+    }
+  ],
+  [
+    {
+      "drug": "phenol",
+      "ade": "visual loss"
+    }
+  ],
+  [
+    {
+      "drug": "ritodrine hydrochloride",
+      "ade": "Rhabdomyolysis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "interferon beta 1a",
+      "ade": "Nephrotic syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "alum",
+      "ade": "Encephalopathy"
+    },
+    {
+      "drug": "alum",
+      "ade": "seizures"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "Amphotericin B",
+      "ade": "cutaneous leucocytoclastic vasculitis"
+    }
+  ],
+  [
+    {
+      "drug": "trazodone",
+      "ade": "Priapism"
+    }
+  ],
+  [
+    {
+      "drug": "docetaxel",
+      "ade": "interstitial pneumonitis"
+    }
+  ],
+  [
+    {
+      "drug": "niacin",
+      "ade": "dental and gingival pain"
+    }
+  ],
+  [
+    {
+      "drug": "D-penicillamine",
+      "ade": "hepatotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "leuprolide acetate",
+      "ade": "myositis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "IFN-alpha",
+      "ade": "Hashimoto's disease"
+    }
+  ],
+  [
+    {
+      "drug": "Lithium",
+      "ade": "intolerable polyuria"
+    }
+  ],
+  [
+    {
+      "drug": "8MOP",
+      "ade": "acute dermatitis"
+    }
+  ],
+  [
+    {
+      "drug": "heparin",
+      "ade": "Priapism"
+    }
+  ],
+  [
+    {
+      "drug": "phenylephrine",
+      "ade": "positive U waves"
+    }
+  ],
+  [
+    {
+      "drug": "amphotericin",
+      "ade": "cardiac arrest"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "painful erosions of psoriasis"
+    }
+  ],
+  [
+    {
+      "drug": "imiquimod",
+      "ade": "type I interferon production"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "nitrate",
+      "ade": "methemoglobinemia"
+    }
+  ],
+  [
+    {
+      "drug": "furosemide",
+      "ade": "pancreatitis"
+    }
+  ],
+  [
+    {
+      "drug": "epoprostenol",
+      "ade": "Severe erythroderma"
+    }
+  ],
+  [
+    {
+      "drug": "ivermectin",
+      "ade": "severe liver disease"
+    }
+  ],
+  [
+    {
+      "drug": "rifampicin",
+      "ade": "renal insufficiency"
+    }
+  ],
+  [
+    {
+      "drug": "carbamazepine",
+      "ade": "dystonia"
+    }
+  ],
+  [
+    {
+      "drug": "dextran-40",
+      "ade": "renal failure"
+    }
+  ],
+  [
+    {
+      "drug": "ampicillin",
+      "ade": "acute interstitial nephritis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "raloxifene",
+      "ade": "malignant mixed mesodermal tumor"
+    }
+  ],
+  [
+    {
+      "drug": "chlorambucil",
+      "ade": "central nervous toxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "ketoralac",
+      "ade": "bilateral sensorineural hearing loss"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "diphenylhydantoin",
+      "ade": "gingival hyperplasia"
+    },
+    {
+      "drug": "diphenylhydantoin",
+      "ade": "angiomatous enlargement of the gingiva"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Desipramine",
+      "ade": "SIADH"
+    }
+  ],
+  [
+    {
+      "drug": "Lansoprazole",
+      "ade": "collagenous colitis"
+    }
+  ],
+  [
+    {
+      "drug": "colchicine",
+      "ade": "myopathy"
+    }
+  ],
+  [
+    {
+      "drug": "infliximab",
+      "ade": "arthritis"
+    }
+  ],
+  [
+    {
+      "drug": "trazodone",
+      "ade": "Generalized pustular psoriasis"
+    }
+  ],
+  [
+    {
+      "drug": "nimesulide",
+      "ade": "Acute generalized exanthematous pustulosis"
+    }
+  ],
+  [
+    {
+      "drug": "brimonidine",
+      "ade": "paradoxical effect"
+    }
+  ],
+  [
+    {
+      "drug": "prednisolone",
+      "ade": "mite infestation"
+    }
+  ],
+  [
+    {
+      "drug": "interferon",
+      "ade": "nephrotic syndrome"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "PAS",
+      "ade": "hypoglycaemia"
+    }
+  ],
+  [
+    {
+      "drug": "tamoxifen",
+      "ade": "proliferative lesions of the endometrium"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "GnRH-a",
+      "ade": "thrombosis"
+    }
+  ],
+  [
+    {
+      "drug": "moxifloxacin",
+      "ade": "Torsade de pointes"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "lovastatin",
+      "ade": "rhabdomyolysis"
+    }
+  ],
+  [
+    {
+      "drug": "vinorelbine",
+      "ade": "SIADH"
+    }
+  ],
+  [
+    {
+      "drug": "statin drug",
+      "ade": "myasthenia gravis"
+    }
+  ],
+  [
+    {
+      "drug": "drug_name",
+      "ade": "adverse_effect"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "Cyclophosphamide",
+      "ade": "interstitial pneumonitis"
+    },
+    {
+      "drug": "Cyclophosphamide",
+      "ade": "fibrosis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Gabapentin",
+      "ade": "mood changes"
+    },
+    {
+      "drug": "Gabapentin",
+      "ade": "hypomanic features"
+    }
+  ],
+  [
+    {
+      "drug": "fluvoxamine maleate",
+      "ade": "piloerection"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Phenytoin",
+      "ade": "toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "enoxaparin",
+      "ade": "hepatotoxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "trazodone",
+      "ade": "priapism"
+    }
+  ],
+  [
+    {
+      "drug": "Chlorpropamide",
+      "ade": "hemolytic anemia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "phenylephrine",
+      "ade": "arterial hypertension"
+    }
+  ],
+  [
+    {
+      "drug": "olanzapine",
+      "ade": "paraesthesia"
+    },
+    {
+      "drug": "olanzapine",
+      "ade": "agitation"
+    }
+  ],
+  [
+    {
+      "drug": "drug_name",
+      "ade": "adverse_effect"
+    },
+    {
+      "drug": "quinine",
+      "ade": "thrombotic microangiopathy"
+    }
+  ],
+  [
+    {
+      "drug": "pentamidine",
+      "ade": "second-degree heart block"
+    },
+    {
+      "drug": "pentamidine",
+      "ade": "sinus bradycardia"
+    }
+  ],
+  [
+    {
+      "drug": "clofibrate",
+      "ade": "myopathy"
+    }
+  ],
+  [
+    {
+      "drug": "pegylated liposomal doxorubicin",
+      "ade": "intertrigo-like eruption"
+    }
+  ],
+  [
+    {
+      "drug": "lithium",
+      "ade": "Creutzfeldt-Jakob syndrome"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "fluoxetine",
+      "ade": "RBD"
+    }
+  ],
+  [
+    {
+      "drug": "Kalimate",
+      "ade": "colonic mucosal necrosis"
+    }
+  ],
+  [
+    {
+      "drug": "roxithromycin",
+      "ade": "acute pancreatitis"
+    }
+  ],
+  [
+    {
+      "drug": "Methyldopa",
+      "ade": "liver injury"
+    }
+  ],
+  [
+    {
+      "drug": "fluoxetine",
+      "ade": "death"
+    }
+  ],
+  [
+    {
+      "drug": "theophylline",
+      "ade": "intoxication"
+    }
+  ],
+  [
+    {
+      "drug": "gemcitabine",
+      "ade": "radiation recall dermatitis"
+    },
+    {
+      "drug": "gemcitabine",
+      "ade": "myositis"
+    }
+  ],
+  [
+    {
+      "drug": "Salicylate",
+      "ade": "hepatotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "actinomycin-D",
+      "ade": "Exacerbations of the heart failure"
+    },
+    {
+      "drug": "mithramycin",
+      "ade": "Exacerbations of the heart failure"
+    }
+  ],
+  [
+    {
+      "drug": "quinapril",
+      "ade": "chronic, nonproductive cough"
+    }
+  ],
+  [
+    {
+      "drug": "ophthalmic sulfonamide",
+      "ade": "Stevens-Johnson syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "Ampicillin",
+      "ade": "preexisting electrical decrement"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "quinine",
+      "ade": "TTP/HUS"
+    }
+  ],
+  [
+    {
+      "drug": "temozolomide",
+      "ade": "myelodysplastic syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "gemcitabine",
+      "ade": "pneumonitis"
+    }
+  ],
+  [
+    {
+      "drug": "compound tincture of benzoin",
+      "ade": "allergic contact dermatitis"
+    }
+  ],
+  [
+    {
+      "drug": "Barbiturate",
+      "ade": "submassive hepatic necrosis"
+    }
+  ],
+  [
+    {
+      "drug": "propafenone",
+      "ade": "ST elevation in right precordial leads"
+    }
+  ],
+  [
+    {
+      "drug": "rosiglitazone",
+      "ade": "heart failure exacerbation"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "acyclovir",
+      "ade": "fever"
+    },
+    {
+      "drug": "acyclovir",
+      "ade": "pulmonary infiltrates"
+    },
+    {
+      "drug": "acyclovir",
+      "ade": "pleural effusion"
+    }
+  ],
+  [
+    {
+      "drug": "Theophylline",
+      "ade": "intoxication"
+    },
+    {
+      "drug": "viloxazine",
+      "ade": "decrease in clearance"
+    }
+  ],
+  [
+    {
+      "drug": "MMF",
+      "ade": "bone marrow toxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Rifampicin",
+      "ade": "renal failure"
+    }
+  ],
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "clozapine",
+      "ade": "neutropenia"
+    }
+  ],
+  [
+    {
+      "drug": "ATRA",
+      "ade": "scrotal ulcer"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Argatroban",
+      "ade": "hepatic failure"
+    }
+  ],
+  [
+    {
+      "drug": "fluvoxamine",
+      "ade": "increased libido"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "timolol",
+      "ade": "heart failure"
+    }
+  ],
+  [
+    {
+      "drug": "procainamide",
+      "ade": "lupus syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "lamotrigine",
+      "ade": "encephalopathy"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Carbamazepine",
+      "ade": "Diabetes mellitus"
+    }
+  ],
+  [
+    {
+      "drug": "tobramycin",
+      "ade": "hypersensitivity reaction"
+    },
+    {
+      "drug": "tobramycin",
+      "ade": "eosinophilia"
+    },
+    {
+      "drug": "tobramycin",
+      "ade": "deterioration of pulmonary function"
+    }
+  ],
+  [
+    {
+      "drug": "Gliadel wafers",
+      "ade": "profound cerebral edema"
+    }
+  ],
+  [
+    {
+      "drug": "cisplatinum",
+      "ade": "Transient left homonymous hemianopsia"
+    },
+    {
+      "drug": "vinblastine",
+      "ade": "Transient left homonymous hemianopsia"
+    },
+    {
+      "drug": "bleomycin",
+      "ade": "encephalopathy"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "lithium carbonate",
+      "ade": "renal damage"
+    }
+  ],
+  [
+    {
+      "drug": "PLD",
+      "ade": "erythema"
+    },
+    {
+      "drug": "PLD",
+      "ade": "erosions"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "practolol",
+      "ade": "sclerosing peritonitis"
+    }
+  ],
+  [
+    {
+      "drug": "carbamazepine",
+      "ade": "seizures"
+    },
+    {
+      "drug": "carbamazepine",
+      "ade": "coma"
+    },
+    {
+      "drug": "carbamazepine",
+      "ade": "respiratory depression"
+    }
+  ],
+  [
+    {
+      "drug": "2-CdA",
+      "ade": "lymphocytopenia"
+    }
+  ],
+  [
+    {
+      "drug": "voglibose",
+      "ade": "acute dizziness"
+    }
+  ],
+  [
+    {
+      "drug": "lithium",
+      "ade": "diabetes insipidus"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "hepatitis B vaccination",
+      "ade": "mental nerve neuropathy"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "infliximab",
+      "ade": "venous thrombosis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Cyclosporine A",
+      "ade": "herpes esophagitis"
+    }
+  ],
+  [
+    {
+      "drug": "Prothipendylhydrochloride",
+      "ade": "priapism"
+    }
+  ],
+  [
+    {
+      "drug": "erlotinib",
+      "ade": "ILD"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "ketamine",
+      "ade": "damage to the urinary tract"
+    }
+  ],
+  [
+    {
+      "drug": "capecitabine",
+      "ade": "headache"
+    }
+  ],
+  [
+    {
+      "drug": "etoposide",
+      "ade": "pulmonary toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "Sulfasalazine",
+      "ade": "lupus erythematosus"
+    }
+  ],
+  [
+    {
+      "drug": "disulfiram",
+      "ade": "Toxic hepatitis"
+    }
+  ],
+  [
+    {
+      "drug": "octreotide",
+      "ade": "Hepatolithiasis (intrahepatic stone)"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "diltiazem hydrochloride",
+      "ade": "fever"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "sodium aurothiomalate",
+      "ade": "acute intrahepatic cholestasis"
+    }
+  ],
+  [
+    {
+      "drug": "5-FU",
+      "ade": "ocular motor disturbances"
+    }
+  ],
+  [
+    {
+      "drug": "doxorubicin",
+      "ade": "toxic myelopathy"
+    }
+  ],
+  [
+    {
+      "drug": "controlled release carbamazepine",
+      "ade": "Hyponatraemia"
+    }
+  ],
+  [
+    {
+      "drug": "bevacizumab",
+      "ade": "endophthalmitis"
+    }
+  ],
+  [
+    {
+      "drug": "Lithium",
+      "ade": "acute renal failure"
+    },
+    {
+      "drug": "Lithium",
+      "ade": "tubulo-interstitial disease"
+    },
+    {
+      "drug": "Lithium",
+      "ade": "proteinuria"
+    },
+    {
+      "drug": "Lithium",
+      "ade": "nephrotic syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "amiodarone",
+      "ade": "Visual changes"
+    }
+  ],
+  [
+    {
+      "drug": "trazodone",
+      "ade": "involuntary movements"
+    }
+  ],
+  [
+    {
+      "drug": "L-dopa",
+      "ade": "myoclonus"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "adalimumab",
+      "ade": "visceral leishmaniasis"
+    },
+    {
+      "drug": "adalimumab",
+      "ade": "macrophagic activation syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "heroin",
+      "ade": "Ballistic movements"
+    },
+    {
+      "drug": "heroin",
+      "ade": "ischemic infarcts"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "nimodipine",
+      "ade": "hypotension"
+    },
+    {
+      "drug": "nimodipine",
+      "ade": "hypoxemia"
+    }
+  ],
+  [
+    {
+      "drug": "Mitomycin-C",
+      "ade": "hemolytic uremic syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "Meperidine",
+      "ade": "central nervous system (CNS) excitatory toxicities"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "intrathecal methotrexate",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "mizoribin",
+      "ade": "SIADH"
+    }
+  ],
+  [
+    {
+      "drug": "gemcitabine",
+      "ade": "HUS"
+    }
+  ],
+  [
+    {
+      "drug": "bevacizumab",
+      "ade": "nasal septal perforation"
+    }
+  ],
+  [
+    {
+      "drug": "ranibizumab",
+      "ade": "ocular hypertension"
+    }
+  ],
+  [
+    {
+      "drug": "clozapine",
+      "ade": "Eosinophilia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "risperidone",
+      "ade": "tardive dyskinesia"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "Moxalactam",
+      "ade": "platelet dysfunction"
+    }
+  ],
+  [
+    {
+      "drug": "ampicillin",
+      "ade": "renal failure"
+    },
+    {
+      "drug": "ampicillin",
+      "ade": "eosinophilia"
+    },
+    {
+      "drug": "ampicillin",
+      "ade": "skin rash"
+    }
+  ],
+  [
+    {
+      "drug": "fludarabine",
+      "ade": "Severe respiratory syncytial virus pulmonary infection"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "infliximab",
+      "ade": "adenovirus pneumonia (AVP)"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "sodium bisulfite",
+      "ade": "contact dermatitis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "drug_name",
+      "ade": "adverse_effect"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "azathioprine",
+      "ade": "VOD"
+    }
+  ],
+  [
+    {
+      "drug": "lithium",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Pirmenol hydrochloride",
+      "ade": "QT prolongation"
+    },
+    {
+      "drug": "Pirmenol hydrochloride",
+      "ade": "T wave inversion"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "Gemcitabine",
+      "ade": "pericardial effusion"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "amphotericin B",
+      "ade": "palpable purpuric skin lesions"
+    }
+  ],
+  [
+    {
+      "drug": "lamotrigine",
+      "ade": "Localized purpura"
+    }
+  ],
+  [
+    {
+      "drug": "carbamazepine",
+      "ade": "LABD"
+    }
+  ],
+  [
+    {
+      "drug": "disulfiram",
+      "ade": "fulminant hepatic failure"
+    }
+  ],
+  [
+    {
+      "drug": "flecainide",
+      "ade": "interstitial hypoxaemiant pneumonitis"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "argatroban",
+      "ade": "hepatic failure"
+    },
+    {
+      "drug": "argatroban",
+      "ade": "renal failure"
+    }
+  ],
+  [
+    {
+      "drug": "ifosfamide",
+      "ade": "toxicity"
+    },
+    {
+      "drug": "ifosfamide",
+      "ade": "toxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "acenocoumarol",
+      "ade": "overanticoagulation"
+    }
+  ],
+  [
+    {
+      "drug": "Copaxone",
+      "ade": "gastrointestinal symptoms"
+    }
+  ],
+  [
+    {
+      "drug": "Mitomycin C",
+      "ade": "hemolytic uremic syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "hepatotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "cyclosporine",
+      "ade": "hypersensitivity reaction"
+    }
+  ],
+  [
+    {
+      "drug": "albuterol",
+      "ade": "hypokalemic"
+    }
+  ],
+  [
+    {
+      "drug": "methylprednisolone",
+      "ade": "adrenal suppression"
+    }
+  ],
+  [
+    {
+      "drug": "fluoxetine",
+      "ade": "extensive, prominent eye movements in nonrapid eye movement (NREM) sleep"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "5-fluorouracil",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "pravastatin",
+      "ade": "myotonia"
+    }
+  ],
+  [
+    {
+      "drug": "Warfarin",
+      "ade": "skin necrosis"
+    }
+  ],
+  [
+    {
+      "drug": "Propranolol",
+      "ade": "central nervous system dysfunction"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "drug": "cephalexin",
+      "ade": "rash"
+    },
+    {
+      "drug": "ampicillin",
+      "ade": "rash"
+    }
+  ],
+  [
+    {
+      "drug": "D-penicillamine",
+      "ade": "hepatotoxicity"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Disopyramide",
+      "ade": "heart block"
+    }
+  ],
+  [
+    {
+      "drug": "low-dose aspirin",
+      "ade": "hemorrhage"
+    }
+  ],
+  [
+    {
+      "drug": "MTX",
+      "ade": "hepatic injury"
+    },
+    {
+      "drug": "MTX",
+      "ade": "liver enzyme elevations"
+    }
+  ],
+  [
+    {
+      "drug": "sunitinib",
+      "ade": "gnyecomastia"
+    }
+  ],
+  [
+    {
+      "drug": "phenothiazine",
+      "ade": "respiratory distress syndrome"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "Gold",
+      "ade": "nephropathy"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Dorzolamide",
+      "ade": "choroidal detachment"
+    }
+  ],
+  [
+    {
+      "drug": "serine",
+      "ade": "psychotic symptoms"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "nitrofurantoin",
+      "ade": "cholestatic hepatitis"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "fatal rise in intracranial pressure"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "hydroxyurea",
+      "ade": "multiple skin cancers"
+    },
+    {
+      "drug": "hydroxyurea",
+      "ade": "nail changes"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "clomiphene citrate",
+      "ade": "Bilateral anterior uveitis"
+    }
+  ],
+  [
+    {
+      "drug": "gabapentin",
+      "ade": "acute renal failure"
+    }
+  ],
+  [
+    {
+      "drug": "clarithromycin",
+      "ade": "fulminant liver failure"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "pyridoxine",
+      "ade": "acute hypotonia"
+    }
+  ],
+  [
+    {
+      "drug": "sorafenib",
+      "ade": "acute renal failure"
+    },
+    {
+      "drug": "sorafenib",
+      "ade": "hyperkalemia"
+    },
+    {
+      "drug": "sorafenib",
+      "ade": "hyperuricemia"
+    }
+  ],
+  [
+    {
+      "drug": "amiodarone",
+      "ade": "hepatitis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "L-thyroxine",
+      "ade": "acute myocardial infarction"
+    }
+  ],
+  [
+    {
+      "drug": "alteplase",
+      "ade": "subfascial hemorrhage"
+    }
+  ],
+  [
+    {
+      "drug": "indomethacin",
+      "ade": "Premature closure of the ductus arteriosus"
+    }
+  ],
+  [
+    {
+      "drug": "octreotide",
+      "ade": "gallstones"
+    },
+    {
+      "drug": "octreotide",
+      "ade": "bile sludge"
+    }
+  ],
+  [
+    {
+      "drug": "doxorubicin",
+      "ade": "cardiomyopathy"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "neurotoxicity"
+    },
+    {
+      "drug": "methotrexate",
+      "ade": "neurotoxicity"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "bevacizumab",
+      "ade": "infectious endophthalmitis"
+    }
+  ],
+  [
+    {
+      "drug": "Nitrofurantoin",
+      "ade": "pulmonary toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "vigabatrin",
+      "ade": "Symptomatic visual field constriction"
+    }
+  ],
+  [
+    {
+      "drug": "olanzapine",
+      "ade": "Restless legs syndrome"
+    },
+    {
+      "drug": "olanzapine",
+      "ade": "periodic limb movements during sleep"
+    }
+  ],
+  [
+    {
+      "drug": "MMF",
+      "ade": "neutropenia"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "megaloblastic anaemia"
+    },
+    {
+      "drug": "methotrexate",
+      "ade": "pneumonitis"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "salsalate",
+      "ade": "lichenoid eruption"
+    }
+  ],
+  [
+    {
+      "drug": "interferon-alpha",
+      "ade": "nephrotic syndrome"
+    }
+  ],
+  [
+    {
+      "drug": "Ethambutol",
+      "ade": "visually related side effects"
+    },
+    {
+      "drug": "isoniazid",
+      "ade": "visually related side effects"
+    }
+  ],
+  [
+    {
+      "drug": "imatinib",
+      "ade": "venous thrombembolism"
+    }
+  ],
+  [
+    {
+      "drug": "metoclopramide",
+      "ade": "confusion"
+    },
+    {
+      "drug": "metoclopramide",
+      "ade": "agitation"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Propranolol",
+      "ade": "bronchospasm"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "Acetazolamide",
+      "ade": "osteomalacia"
+    }
+  ],
+  [
+    {
+      "drug": "APV",
+      "ade": "bleeding"
+    }
+  ],
+  [
+    {
+      "drug": "Naproxen",
+      "ade": "PCT-like presentation"
+    },
+    {
+      "drug": "Naproxen",
+      "ade": "simulating erythropoietic protoporphyria"
+    }
+  ],
+  [
+    {
+      "drug": "quetiapine",
+      "ade": "leucocytopenia"
+    },
+    {
+      "drug": "quetiapine",
+      "ade": "thrombocytopenia"
+    }
+  ],
+  [
+    {
+      "drug": "flurbiprofen",
+      "ade": "acute tubulointerstitial nephritis"
+    }
+  ],
+  [
+    {
+      "drug": "bacitracin ointment",
+      "ade": "anaphylactic reaction"
+    }
+  ],
+  [
+    {
+      "drug": "procainamide",
+      "ade": "Electrical proarrhythmia"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "linezolid",
+      "ade": "sideroblastic anemia"
+    }
+  ],
+  [
+    {
+      "drug": "monooctanoin",
+      "ade": "noncardiogenic pulmonary edema"
+    }
+  ],
+  [
+    {
+      "drug": "Niacin",
+      "ade": "maculopathy"
+    }
+  ],
+  [
+    {
+      "drug": "phenobarbital",
+      "ade": "maladaptive behaviors"
+    }
+  ],
+  [
+    {
+      "drug": "gemcitabine",
+      "ade": "pulmonary toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "Isoniazid",
+      "ade": "gnyecomastia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "CCNU",
+      "ade": "pulmonary toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "choline magnesium trisalicylate",
+      "ade": "hepatotoxicity"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "iron deficiency anemia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "clindamycin",
+      "ade": "cholestatic liver disease"
+    },
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "cholestatic liver disease"
+    },
+    {
+      "drug": "clindamycin",
+      "ade": "ductopenia"
+    },
+    {
+      "drug": "trimethoprim-sulfamethoxazole",
+      "ade": "ductopenia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "ethambutol",
+      "ade": "ocular toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "Rifampicin",
+      "ade": "Erythema Multiforme Bullosum"
+    }
+  ],
+  [
+    {
+      "drug": "methotrexate",
+      "ade": "bone marrow suppression"
+    },
+    {
+      "drug": "methotrexate",
+      "ade": "oral and gastrointestinal ulceration"
+    }
+  ],
+  [
+    {
+      "drug": "Captopril",
+      "ade": "pseudocholangitis"
+    }
+  ],
+  [
+    {
+      "drug": "mannitol",
+      "ade": "acute renal failure"
+    },
+    {
+      "drug": "mannitol",
+      "ade": "acute renal failure"
+    }
+  ],
+  [
+    {
+      "drug": "imatinib",
+      "ade": "tumor lysis syndrome"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "nitrofurantoin",
+      "ade": "respiratory symptoms"
+    }
+  ],
+  [
+    {
+      "drug": "insulin",
+      "ade": "lipohypertrophy"
+    }
+  ],
+  [
+    {
+      "drug": "imatinib",
+      "ade": "herpetic rash"
+    },
+    {
+      "drug": "imatinib",
+      "ade": "acute liver failure"
+    }
+  ],
+  [
+    {
+      "drug": "danazol",
+      "ade": "thrombocytopenia"
+    }
+  ],
+  [
+    {
+      "drug": "ibuprofen",
+      "ade": "Ulcerative proctitis"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "ceftriaxone",
+      "ade": "Hepato-biliary abnormalities"
+    }
+  ],
+  [
+    {
+      "drug": "Aminoglutethimide",
+      "ade": "rash"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "HDARAC",
+      "ade": "cerebellar toxicity"
+    }
+  ],
+  [
+    {
+      "drug": "phenolphthalein",
+      "ade": "toxic epidermal necrolysis"
+    }
+  ],
+  [
+    {
+      "drug": "labetalol",
+      "ade": "hemodynamic collapse"
+    }
+  ],
+  [
+    {
+      "drug": "calcium hopantenate",
+      "ade": "fatal acute encephalopathy"
+    }
+  ],
+  [
+    {
+      "drug": "theophylline",
+      "ade": "gynecomastia"
+    }
+  ],
+  [],
+  [
+    {
+      "drug": "diphenylhydantoin",
+      "ade": "monoclonal gammopathy"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "drug": "clozapine",
+      "ade": "rhabdomyolysis"
+    }
+  ],
+  [
+    {
+      "drug": "gold",
+      "ade": "Lichen planus"
+    },
+    {
+      "drug": "gold",
+      "ade": "acne"
+    }
+  ],
+  [
+    {
+      "drug": "valproate",
+      "ade": "distinctive facial appearance"
+    },
+    {
+      "drug": "valproate",
+      "ade": "major and minor malformations"
+    }
+  ],
+  [
+    {
+      "drug": "Imidazoline",
+      "ade": "intoxication"
+    }
+  ],
+  [
+    {
+      "drug": "vasopressin",
+      "ade": "skeletal muscle ischemia"
+    },
+    {
+      "drug": "vasopressin",
+      "ade": "myoglobin release"
+    },
+    {
+      "drug": "vasopressin",
+      "ade": "renal damage"
+    }
+  ],
+  [
+    {
+      "drug": "venlafaxine",
+      "ade": "acute cardiovascular event"
+    }
+  ],
+  [
+    {
+      "drug": "olanzapine",
+      "ade": "priapism"
+    }
+  ],
+  [
+    {
+      "drug": "acyclovir",
+      "ade": "Fever"
+    }
+  ],
+  [
+    {
+      "drug": "intravesical formalin",
+      "ade": "fatal acute tubular necrosis"
+    }
+  ],
+  [
+    {
+      "drug": "cholestyramine",
+      "ade": "hyperchloremic metabolic acidosis"
+    }
+  ],
+  [
+    {
+      "drug": "Recombinant VIIa concentrate",
+      "ade": "bleeding"
+    }
+  ]
+]
